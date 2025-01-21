@@ -1,0 +1,2462 @@
+[
+  {
+    "image": "images/Casual pose/Pose1.jpg",
+    "filter": "standing, sidelook",
+    "description": "This casual pose is perfect for relaxed and informal photoshoots. Lean against a fence with one leg slightly bent and hands in pockets for a relaxed and confident look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/pose2.jpg",
+    "filter": "standing, formal",
+    "description": "Stand tall with your hands folded or one hand in your pocket for a confident and professional vibe.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Outdoor/pose3.jpg",
+    "filter": "sitting, outdoor",
+    "description": "Use the natural environment to your advantage. Sit on a bench or lean on a tree for a stylish, outdoorsy appearance.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Casual pose/0adca95a48f923da2553719b5abb5d4d.jpg",
+    "filter": "sitting, indoor",
+    "description": "This edgy pose is perfect for urban and lifestyle photoshoots. Sit on the floor against a dark wall, with one arm resting on your knee and the other on the floor. Keep a confident and relaxed expression, showcasing tattoos and accessories for added style.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/1.jpg",
+    "filter": "walking, urban",
+    "description": "This casual urban pose is perfect for street style and lifestyle photoshoots. Walk down a busy street, with a confident stride and a relaxed posture. Wear trendy and comfortable clothing to match the urban environment.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/1bc92d5f17cd81c673805fae250820b7.jpg",
+    "filter": "standing, outdoor",
+    "description": "This serene outdoor pose is perfect for beachside and nature-themed photoshoots. Stand in profile near the water, gaze towards the horizon, and embrace the tranquility of the environment. The soft colors of the sky enhance the contemplative mood.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/2bdf461c4812be7c6e49e15784ad4452.jpg",
+    "filter": "standing, moody",
+    "description": "This dramatic pose is ideal for artistic and fashion photoshoots. Stand against a tiled wall under a cloudy sky, with a dark jacket over a light-colored shirt. Keep your face obscured for a mysterious and moody effect.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/2f588c58b3c59ece32a1e1c9191fd305.jpg",
+    "filter": "standing, urban",
+    "description": "This stylish pose is perfect for urban and contemporary photoshoots. Lean against a large geometric-patterned wall, with one leg crossed over the other. Hold a pair of sunglasses in both hands and showcase a relaxed yet confident look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/2f743419e7730dbfface682749883fc0.jpg",
+    "filter": "standing, edgy",
+    "description": "This edgy pose is perfect for urban and street-style photoshoots. Stand against a corrugated metal wall, wearing a black leather jacket over a black hoodie and black shirt. Highlight the unique tattoos on the neck and chest for an added personal touch.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/3cc44b1ffb39f453cc52aa81de31be8c.jpg",
+    "filter": "sitting, casual",
+    "description": "This casual outdoor pose is perfect for a relaxed and urban photoshoot. Sit at an outdoor café table, enjoying a drink and a pastry. Keep a comfortable posture, with one hand holding a cup and a natural expression for an authentic moment.",
+    "category": "casual"
+  },{
+    "image": "images/Casual pose/3e7f97c3c50bc9a794e2f37250dc2b39.jpg",
+    "filter": "walking, urban",
+    "description": "This stylish pose is perfect for contemporary, professional photoshoots. Walk confidently on a paved pathway, dressed in a light grey blazer over a black sweater, paired with black pinstriped trousers and black loafers. The modern architectural background adds to the sophisticated atmosphere.",
+    "category": "semi-formal"
+  },
+  {
+    "image": "images/Casual pose/4a64a0433c0e6748f8795bd42992acac.jpg",
+    "filter": "walking, urban",
+    "description": "This stylish pose is ideal for urban and lifestyle photoshoots. Walk confidently on the sidewalk, dressed in a black button-up shirt and black pants, complemented by black and white sneakers. Use the smartphone in one hand for a dynamic and modern look, highlighting your tattoos for added personality.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/4afcc0eaac451a4ae3933acc76fde554.jpg",
+    "filter": "standing, urban",
+    "description": "This stylish urban pose is ideal for contemporary and fashion photoshoots. Stand casually on a set of stairs, leaning against the metal railing. The modern building in the background enhances the urban vibe. Dress in a light blue denim jacket, a black shirt, black pants, and white sneakers for a chic and trendy look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/4c0d5c24b8ce609976d4c2b9823c18b1.jpg",
+    "filter": "sitting, black-and-white",
+    "description": "This dramatic, artistic pose is perfect for monochrome and fashion photoshoots. Sit on the ground against a textured wall, with one leg bent and the other straight. Tie the laces of your high-top sneakers while leaning forward slightly. The black-and-white effect adds a timeless and moody touch.",
+    "category": "artistic"
+  },
+  {
+    "image": "images/Casual pose/4ce514267051ebc940c389357a81a201.jpg",
+    "filter": "sitting, black-and-white",
+    "description": "This contemplative pose is perfect for indoor and moody photoshoots. Sit back against a window with a blurred face for an anonymous and introspective effect. Wear a dark suit and a watch for a sophisticated and timeless look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Casual pose/4e97c054d7aa403661ff385f7f5aea2f.jpg",
+    "filter": "sitting, urban",
+    "description": "This casual urban pose is ideal for relaxed and informal photoshoots. Sit comfortably on a ledge in front of a chain-link fence with a busy road in the background. The blurred car lights add a dynamic bokeh effect. Wear a yellow short-sleeved shirt over a white t-shirt and blue jeans for a laid-back, stylish look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/4f0f1c273458ff2d5af715280127f6bd.jpg",
+    "filter": "walking, urban",
+    "description": "This casual street style pose is ideal for urban and lifestyle photoshoots. Walk confidently on a city street, dressed in a pink sweater, black pants, and black boots. The urban backdrop enhances the stylish and relaxed vibe of the outfit.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/5b402cadd6bfe43a3f03c8201c306bdb.jpg",
+    "filter": "standing, formal",
+    "description": "This stylish pose is ideal for formal and outdoor photoshoots. Stand confidently in a dark blue suit with a dark shirt underneath, adjusting your earphone or earring. The blurred architectural background adds to the sophisticated and modern look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Casual pose/5fd8f52fc0cd37fdf51ab403d73c88e3.jpg",
+    "filter": "standing, outdoor",
+    "description": "This casual outdoor pose is ideal for showcasing a stylish yet relaxed look. Stand in front of a modern house, with one hand in your pocket and the other hanging naturally by your side. Wear a dark long-sleeve button-up shirt, beige chinos, and white sneakers. The watch on your left wrist adds a touch of elegance.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/006ef18e48e2462b25f0bddd0c54ba59.jpg",
+    "filter": "walking, street",
+    "description": "This fashionable pose is perfect for modern street style photoshoots. Walk confidently on an urban street, dressed in a grey double-breasted overcoat, black hoodie, black ripped jeans, and black shoes. Carry a black quilted backpack in one hand to complete the stylish and trendy look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/6a9e3534137b89a8ae8907aaec086b40.jpeg",
+    "filter": "walking, urban",
+    "description": "This casual urban pose is ideal for capturing a fashionable street style. Walk confidently on a sidewalk, dressed in a green button-up shirt with sleeves rolled up, black pants, and black loafers. The ornate building in the background enhances the stylish city vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/6c06ef1fa67e301afc7d429f012e939c.jpg",
+    "filter": "standing, urban",
+    "description": "This stylish urban pose is perfect for showcasing confidence and elegance. Stand in front of a black luxury car, dressed in a black shirt, black pants, and black shoes. The background includes a house with a garden featuring large green plants, adding to the sophisticated vibe.",
+    "category": "fashion"
+  },
+  {
+    "image": "images/Casual pose/6df4d57d9e0ea28f74d51d6e4879e4d3.jpg",
+    "filter": "standing, indoor",
+    "description": "This casual indoor pose is perfect for relaxed and natural photoshoots. Stand indoors with a white shirt partially unbuttoned, casually holding your hair with one hand. The blurred background adds to the simplicity and focus on the pose. A watch on the wrist adds a subtle accessory touch.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/6ea59604a165bb5d2b0d7eb35728d3e7.jpg",
+    "filter": "leaning, urban",
+    "description": "This modern and fashionable pose is perfect for urban photoshoots. Lean casually against a stone pillar in an urban setting, dressed in a black jacket, a brown sweater layered over a white shirt, black pinstriped pants, and beige suede shoes. The concrete wall and tiled pavement, along with the spherical lights mounted on the wall, add to the sophisticated and stylish vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/6fe83d1ebd074fbb1d80b027d1fdab4d.jpg",
+    "filter": "walking, beach",
+    "description": "This casual beach pose is perfect for relaxed and summertime photoshoots. Walk confidently on the sandy shore, dressed in a white tank top and green shorts. The clear blue sky, ocean waves, and gentle breeze add to the serene and carefree vibe. The tattoo on the left arm and wristwatch on the right wrist add a personal touch.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/7ba601ae29fb2e78f5d639b41178c7ac.jpg",
+    "filter": "leaning, indoor",
+    "description": "This stylish indoor pose is ideal for modern and sophisticated photoshoots. Lean casually against a wooden-framed glass door, with one hand resting on the frame and the other hand in the pocket of black pants. Wear a brown button-up shirt with the top buttons undone for a relaxed yet elegant look. The modern interior, with a mix of wooden and metal elements, adds to the overall stylish ambiance.",
+    "category": "Attitude"
+  },
+  {
+    "image": "images/Casual pose/7c21cb79fedd0c8c46d7b3d4902bd90c.jpg",
+    "filter": "leaning, urban",
+    "description": "This stylish indoor pose is perfect for modern, sophisticated photoshoots. Lean casually against a wooden-framed glass door, with one hand resting on the frame and the other hand in the pocket of black pants. Wear a brown button-up shirt with the top buttons undone for a relaxed yet elegant look. The modern architectural background with large pillars and glass windows adds to the overall stylish ambiance.",
+    "category": "Indoor"
+  },
+  {
+    "image": "images/Casual pose/7c24de3d3ff27a7b0fc67a6a488f0f47.jpg",
+    "filter": "sitting, outdoor",
+    "description": "This serene outdoor pose is perfect for nature-themed photoshoots. Sit casually on the edge of a stone or concrete surface near a body of water, with a white partially unbuttoned shirt and dark pants. The bokeh effect in the background with light reflecting off the water creates a visually appealing and serene atmosphere. The person has glasses placed on the ground next to them and is wearing a wristwatch. The face is obscured to add a mysterious touch.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/7d1b0986e7981e1300e67aeb10ccacb2.jpg",
+    "filter": "standing, outdoor",
+    "description": "This casual outdoor pose is ideal for a relaxed and stylish look. Stand casually in front of a wooden gate or fence, dressed in a brown shirt, light grey pants, and brown shoes. Adjust the collar of the shirt for a natural and confident posture. The warm sunset sky and the structure with beams in the background create an aesthetically pleasing atmosphere.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/7ecccf9f65cc3fb2859fdac866fa4b9a.jpg",
+    "filter": "walking, waterfront",
+    "description": "This casual waterfront pose is ideal for urban lifestyle photoshoots. Walk confidently along a promenade with a cityscape and bridge in the background. Dress in a dark t-shirt, dark jeans with rolled cuffs, and white sneakers, while carrying a brown jacket over one shoulder. The tall buildings and urban backdrop enhance the stylish and relaxed vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/09ee1661d6c48ff21db055a1e946843b.jpg",
+    "filter": "leaning, urban",
+    "description": "This stylish urban pose is perfect for city-themed photoshoots. Lean casually against a black lamppost on a city street, dressed in a light-colored, patterned short-sleeve shirt, light gray trousers, and gray slip-on shoes. Hold a matching light gray blazer in one hand and keep the other hand in the pocket of the trousers. The background features urban architecture with buildings and a red postbox visible in the distance, highlighting a casual yet sophisticated style.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/9bb4c150cbe6d442d5a4a6ecaa19f361.jpg",
+    "filter": "standing, casual",
+    "description": "This stylish urban pose is perfect for casual and contemporary photoshoots. Stand casually with one hand in your pocket and the other resting on a vertical pipe. Dress in a black and white checkered shirt, dark jeans, and black shoes. The dark, urban background adds a contrasting element, enhancing the relaxed and laid-back vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/9d16744d11e926f49f583a3058b2aea5.jpg",
+    "filter": "sitting, outdoor",
+    "description": "This casual outdoor pose is ideal for capturing a relaxed and natural look. Sit on a rock in a park or forest, dressed in a black jacket with a fur collar, a white T-shirt with the 'Levi's' logo, black pants, and black boots. The large tree and fallen leaves in the background suggest an autumn season, adding to the serene and natural ambiance. The person is posing in a relaxed manner, with one leg bent and the other extended, while looking to the side.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/19c4deb91481eb35bb4f3da58648a192.jpg",
+    "filter": "standing, outdoor",
+    "description": "This casual outdoor pose is ideal for showcasing a relaxed yet stylish look. Stand casually surrounded by lush green foliage, wearing a light-colored, casual jacket over a white shirt. The sunny natural light creates a serene and bright ambiance.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/025cfe3470c096a1fa3fb56ce4c690c8.jpg",
+    "filter": "standing, formal",
+    "description": "The person in the image is dressed in a black suit with a white shirt and black tie, standing in front of a black SUV with a visible license plate starting with 'T012.' The background includes trees and a building with a dome. The setting features a wet road, adding a contrast between the formal attire and the rugged vehicle, suggesting a blend of elegance and adventure.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Casual pose/26c02dcea5270747b7004eca47789f9f.jpg",
+    "filter": "sitting, casual",
+    "description": "The person in the image is wearing a black t-shirt with white trim on the sleeves and collar, seated with one arm raised, and the hand resting behind the neck. The person is also wearing a wristwatch on the left wrist and sunglasses. The background is a solid brown color, adding to the relaxed and casual atmosphere.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/030c624e38ac1bc81a71740bf8dde0e0.jpg",
+    "filter": "sitting, urban",
+    "description": "This stylish urban pose is perfect for modern and street-themed photoshoots. Sit casually on a metallic bench or ledge, wearing a black leather jacket, a black hoodie with text, black jeans, and black boots. The watch on the left wrist adds a touch of detail. The urban background with a modern building enhances the fashionable and edgy vibe.",
+    "category": "fashion"
+  },
+  {
+    "image": "images/Casual pose/32de4f7a7789e8f43fe29732a76f69ec.jpg",
+    "filter": "standing, indoor",
+    "description": "The person in the image is standing indoors, wearing a black short-sleeved shirt, dark jeans, and brown shoes. The watch on the left wrist adds a stylish touch. The background is a modern, minimalistic interior with a grey wall and a white baseboard. The person's face is blurred out, adding a touch of mystery to the look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/33aa914cd0c30b550195afbbd4a9697e.jpg",
+    "filter": "leaning, indoor",
+    "description": "The person is leaning casually against a marble column in an indoor setting. They are dressed in a black button-up shirt with the sleeves rolled up, beige trousers, and black loafers. One hand is in the pocket while the other holds a pair of sunglasses. The background features a chandelier visible through a window, adding to the sophisticated ambiance.",
+    "category": "smart-casual"
+  },
+  {
+    "image": "images/Casual pose/44b21d6c7bdffb6a257344708cdfc794 (1).jpg",
+    "filter": "sitting, urban",
+    "description": "The image shows a person sitting on a bench. The person is dressed in a black jacket, black pants, and white sneakers. The background includes a building with large windows and a mural or artwork on the wall. The person is sitting with legs apart, hands clasped, and looking to the side. This image is interesting as it captures a casual, urban fashion style and a relaxed pose in an outdoor setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/47b4071811478c6dc443ac96d966d189.jpg",
+    "filter": "sitting, beach",
+    "description": "The image shows a person sitting on a sandy beach with a clear blue sky and ocean in the background. The person is wearing a light blue sleeveless shirt and light blue jeans. The beach appears to be serene and picturesque, making it an interesting and relevant image for showcasing a relaxing and scenic environment.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/47bc9f0a35cbf11fcc42d5465224f0c1.jpg",
+    "filter": "standing, beach",
+    "description": "The image shows a person standing on a beach facing the ocean. The person is shirtless, wearing light-colored pants, and holding a pair of sunglasses in one hand. The scene is set during what appears to be either sunrise or sunset, as indicated by the warm lighting and the position of the sun near the horizon. The beach has some seaweed scattered around, and the waves are gently crashing onto the shore. This image is interesting because it captures a serene and contemplative moment by the sea, highlighting the natural beauty of the ocean and the peaceful atmosphere of the beach.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/064f114610c9cca171a39acaf7c524ad.jpg",
+    "filter": "standing, outdoor",
+    "description": "The image shows a person standing outdoors in a natural setting with greenery and flowers in the background. The person is wearing a green button-up shirt with two chest pockets and black cargo pants. The person has one hand in a pocket and the other hand is visible with a wristwatch and a bracelet. The background includes a black and yellow striped barrier and some pink and orange flowers. The person's face is blurred out.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/66cc088e7c5b0752146122bf66a6b05e.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing outdoors in an urban environment. The person is wearing a light blue, partially unbuttoned dress shirt with the sleeves rolled up and dark blue trousers. The person has a watch on the left wrist and is wearing sunglasses. The background includes a brick wall and some greenery, with buildings visible in the distance.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/67c66c9ce5e9b6779dc910c2944d2c98.jpg",
+    "filter": "Warm Vintage",
+    "description": "A relaxed, thoughtful pose seated on a ledge with one hand near the face, complemented by an urban architectural backdrop. Ideal for lifestyle or fashion photography.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/75c5995efa6d05657be66958cfd29edf.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing against a textured brick wall. The person is wearing a dark blue blazer over a black shirt, with the blazer partially buttoned. The person's face is blurred out, adding an element of mystery. The contrast between the formal attire and the rough brick background creates an intriguing visual effect.",
+    "category": "smart-casual"
+  },
+  {
+    "image": "images/Casual pose/77d2ba40585e5fabe60a5fa5df56e3bb.jpg",
+    "filter": "sitting, urban",
+    "description": "The image shows a person sitting on the edge of a curb in an outdoor setting. The person is wearing a patterned shirt with rolled-up sleeves, black pants, and brown suede boots. The person has a wristwatch on the left wrist and a bracelet on the right wrist. The background is blurred, indicating a shallow depth of field, and there are some indistinct objects and lights in the background, suggesting it might be a parking area or an urban environment. The person's face is obscured.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/86c8506a08e537c44e6232f0c284b425.jpg",
+    "filter": "leaning, urban",
+    "description": "The image shows a person leaning against a dark tiled wall. The person is wearing a white hoodie with the 'Tommy Hilfiger' logo prominently displayed on the front, beige pants, and white sneakers. The face of the person is obscured by a brown square. The outfit is casual and stylish, making it relevant for fashion or lifestyle contexts. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/89eb7f63cc83c8e648d83b88a1240628.jpg",
+    "filter": "leaning, outdoor",
+    "description": "The image shows a person leaning against a tree. The person is wearing a checkered shirt with large black and white patches on the sleeves and chest, black pants, and black sneakers with white soles. The background appears to be an outdoor setting with blurred buildings in the distance. The person's face is obscured by a pixelated effect. The image is interesting due to the fashion style and the casual, relaxed pose of the person.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/94c2f792cc4762bb63722efb580f4955.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing on a set of outdoor stairs in an urban environment. The person is wearing a brown jacket, black hoodie, gray pants, and white sneakers. The person is holding a pair of sunglasses in one hand. The background features modern buildings with glass facades, and the scene appears to be taken during the daytime. The image is interesting due to the stylish outfit and the urban setting, which may be relevant for fashion or lifestyle content.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/94f2c5fe1c2e13c353bd627ca1a309b8.jpg",
+    "filter": "sitting, outdoor",
+    "description": "The image shows a person sitting on a wooden surface outdoors, surrounded by lush green foliage. The person is wearing a white tank top, light blue jeans, and white sneakers. The person is looking upwards and to the side, with one hand resting on the wooden surface and the other hand on the knee. The setting appears to be natural and serene, possibly in a garden or a park. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/97cde0162e194f2c204e69fe8c42cc6f.jpg",
+    "filter": "walking, urban",
+    "description": "The image shows a person walking outdoors against a stone wall background. The person is wearing a light blue button-up shirt with the sleeves rolled up, light gray pants, and white sneakers. The person's face is blurred. The outfit is casual yet stylish, making it interesting for fashion or lifestyle contexts. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/112b43240cbbcc1539b89d256ccf14ec.jpg",
+    "filter": "sitting, outdoor",
+    "description": "The image shows a person sitting on a set of steps. The person is wearing a teal long-sleeve shirt, grey jeans, and white sneakers. The person is holding a phone in one hand and has the other hand on their head. The background appears to be an outdoor setting with some structures and greenery visible.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/125f63d9dfe6ed0b5a5c6fe715268921.jpg",
+    "filter": "standing, outdoor",
+    "description": "The image shows a person standing near a body of water with a forested hillside in the background. The person is wearing a brown sweatshirt and light-colored pants. The scene is misty, with fog partially covering the trees on the hillside, creating a serene and atmospheric setting. The image is interesting due to its natural and tranquil environment, highlighting the beauty of nature and the peacefulness of the location.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/0160ecae6caa15dcc44613e36cb4ecd5.jpg",
+    "filter": "sitting, urban",
+    "description": "The image shows a person sitting in the driver's seat of a car with the door open. The person is wearing a light-colored jacket over a black shirt and has one arm resting on the car door while the other is on the steering wheel. The background includes some buildings and signs, indicating an urban setting. The person's face is blurred.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/253b88952bd69c0d28aae14ba960916e.jpg",
+    "filter": "sitting, indoor",
+    "description": "The image shows a person sitting on a bar stool in a rustic, warmly lit bar or café. The person is dressed in a white jacket, beige shirt, and olive green pants, paired with white shoes. The bar counter is made of dark wood, and there are several stools around it. Behind the bar, there are shelves with bottles and glasses, and the area is illuminated by multiple hanging light bulbs, creating a cozy atmosphere. The person is holding a drink with a straw and appears to be looking at a phone. The setting and the person's attire suggest a casual and relaxed environment.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/293f74b77df1ae946ff139665cbbe836.jpg",
+    "filter": "leaning, urban",
+    "description": "The image shows a person leaning against a wall with red vertical bars. The person is dressed in a grey button-up shirt with the sleeves rolled up, black trousers, and black shoes. The person is standing with one leg crossed over the other and one hand in the pocket. The background includes a concrete wall and a shadowed area, suggesting an outdoor setting. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/315ad6b45478ad623a7c0e0071f34da9.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing against a blue corrugated metal wall. The person is wearing a military-style olive green jacket with gold buttons, a matching olive green t-shirt, black slim-fit pants, and black dress shoes. The person is posing with one leg bent and resting against the wall, and one hand is holding the jacket while the other is in the pocket. There are some small plants and gravel on the ground in front of the person. The image is interesting due to the stylish and coordinated outfit, as well as the confident pose against a vibrant blue background.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/379d237045a808dde903be7b0e189db4.jpg",
+    "filter": "sitting, urban",
+    "description": "The image shows a person sitting on a bench. The person is dressed in a stylish outfit consisting of a dark blazer, a black shirt, black pants, and white sneakers. The person is also wearing a watch and has a pocket square in the blazer. The background appears to be an urban setting with modern architecture. This image is interesting as it showcases a fashionable and casual yet sophisticated look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/431da8c14beff7d832d64d6ffb1eaa92.jpg",
+    "filter": "sitting, beach",
+    "description": "The image shows a person sitting on a sandy beach. The person is dressed in a white shirt and white pants, with one hand resting on the sand and the other holding a small amount of sand that is trickling down. In the background, there is another person standing and looking away, dressed in a light-colored top and orange pants. The scene is set against a bright, possibly overexposed sky, giving it a serene and contemplative atmosphere. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/500ed8ef8fc3a4e7e3db55d4ece82944.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing in front of a black vehicle, which appears to be a luxury SUV. The person is dressed in dark clothing, including a black jacket, black pants, and white sneakers. The person's face is obscured. The background includes a building with the text 'F1 BLOK' visible. The person is posing with one hand in the pocket and the other hand pointing to the side. The image is interesting due to the stylish pose and the luxury vehicle, which may indicate a sense of fashion or status.",
+    "category": "Attitude"
+  },
+  {
+    "image": "images/Casual pose/781ff11eb972d15f6b90de30c00ce375.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing in front of a building. The person is wearing a black t-shirt, dark jeans, and white sneakers. The person has one hand in a pocket and the other hand holding a jacket over the shoulder. The background includes a modern building facade with large windows and some decorative lighting. There is no math or homework problem in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/830b5fa86c2d6c8975adc064d9ca6748.jpg",
+    "filter": "leaning, outdoor",
+    "description": "The image shows a person standing on a paved walkway near a body of water, with a scenic background of hills and greenery. The person is dressed in a casual outfit consisting of a light brown short-sleeved shirt, white pants, and beige loafers. The person is leaning against a stone railing adorned with decorative sculptures. The setting appears to be a picturesque and serene location, possibly a lakeside or riverside promenade, making it an interesting and visually appealing scene.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/865e8d41d4f857425ae3362733c3cba2.jpg",
+    "filter": "standing, outdoor",
+    "description": "The image shows a person standing next to a metal pole in an outdoor setting. The person is wearing a dark long-sleeve shirt with a white collar and white pants. The background features a brick wall with a geometric pattern and a tiled floor. The person has their arms crossed and is leaning slightly against the pole. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/983fb67562307a1b49da929125c968a5.jpg",
+    "filter": "standing, outdoor",
+    "description": "The image shows a person standing against a weathered wooden door. The person is wearing a fitted beige t-shirt, black jeans, and white sneakers. The person has a watch on the left wrist and is posing with hands clasped together. The background includes a worn-out wall and a step leading up to the door. The image is interesting due to the contrast between the modern, casual outfit and the rustic, aged setting. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/988e866f9754f656ce053faa8394ddd8.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing against a concrete wall. The person's face is obscured by a blurred effect. The person is wearing a dark-colored t-shirt and light-colored pants, with a belt visible. The person has one arm resting against the wall and the other hand is raised to the face, possibly holding something. The setting appears to be an industrial or urban environment.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/991f9df65978eae643f47f4c7e0000d6.jpg",
+    "filter": "standing, outdoor",
+    "description": "The image shows a person standing outdoors near a body of water, possibly at a pier or dock. The person is wearing a dark jacket with a fur collar and is holding the collar with both hands. In the background, there is a structure that appears to be part of the pier, and waves are crashing against it, creating a dramatic and dynamic scene. The image is interesting because of the contrast between the calm pose of the person and the energetic movement of the waves in the background.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/1183a06bda311786a4d831d92c6ad58e.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person wearing a dark blue blazer with a white polka dot pocket square and a dark shirt underneath. The person is looking at a wristwatch with a brown leather strap. The background consists of a stone wall with a textured pattern. The image is interesting as it highlights a formal or semi-formal attire and the act of checking the time, which can be relevant in contexts such as fashion, punctuality, or professional settings.",
+    "category": "Smart look"
+  },
+  {
+    "image": "images/Casual pose/03452cd6796c1820ea90baab72cbd736.jpg",
+    "filter": "leaning, outdoor",
+    "description": "The image shows a person leaning against a dark grey wall. The person is dressed in an all-black outfit, consisting of a black button-up shirt with the sleeves rolled up, black pants, and black shiny loafers. The person is also wearing a black wristwatch. The overall look is stylish and modern, with a monochromatic theme. The person has one hand in the pocket and the other hand resting by the side. The setting appears to be outdoors, with a tiled floor visible at the bottom of the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/7651bf7f750a59d46bcd52ec71b4b9de.jpg",
+    "filter": "sitting, outdoor",
+    "description": "The image shows a person sitting on outdoor stone steps. The person is dressed in a white button-up shirt with rolled-up sleeves, brown pants that are rolled up at the ankles, brown loafers with tassels, and black suspenders. The person is also wearing a wristwatch and has a well-groomed beard and hairstyle. The setting appears to be a casual or semi-formal environment, and the person's attire suggests a stylish and modern fashion sense. The combination of the outfit and the setting makes the image interesting as it showcases a blend of casual and sophisticated style.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/7788f82619945dc6d6f6a950036c2335.jpg",
+    "filter": "leaning, outdoor",
+    "description": "The image shows a person leaning against a stone wall. The person is wearing a light gray long-sleeve shirt, black pants, and white sneakers. The background features a textured stone wall with architectural details, including a window with a decorative metal screen. The person has one hand in a pocket and the other hand resting on the wall. The image is interesting due to its composition, the casual yet stylish outfit, and the architectural elements in the background. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/9967acab0ca2865a6e19b9808f433b6d.jpg",
+    "filter": "leaning, vintage",
+    "description": "The image shows a person standing in front of a set of old, white double doors with glass panes. The person is leaning against the door frame with one arm raised and holding onto the door. The person is dressed in a grey flat cap, a grey blazer, a grey shirt, black pants, and black boots. The setting appears to be somewhat rustic or vintage, with visible wear and tear on the doors and surrounding structure. The image is interesting due to the combination of the person's modern, stylish attire and the aged, weathered background, creating a contrast between the old and the new. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/18716c5e74664111412815354feb7c00.jpg",
+    "filter": "sitting, indoor",
+    "description": "The image shows a person wearing a black hoodie with the word 'BALMAIN' embroidered on the front. The person has dark, styled hair and a beard. The background appears to be indoors with a window and curtains visible. The image is interesting as it highlights the fashion brand 'BALMAIN' and the person's hairstyle. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/61456f25394db009abc0f797d1320ff7.jpg",
+    "filter": "sitting, outdoor",
+    "description": "The image shows a person sitting on a motorcycle. The person is wearing a black t-shirt, black ripped jeans, and black boots. The person is holding a black helmet in one hand. The motorcycle has a brown leather seat and appears to be parked in an outdoor, somewhat industrial or urban setting with some debris and an old vehicle in the background. The license plate of the motorcycle reads 'MH 14 C3 ** **.' This image is interesting as it captures a casual, rugged aesthetic and could be relevant for themes related to motorcycles, fashion, or urban lifestyles.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/76277fda4808cca52efa79febdcbe564.jpg",
+    "filter": "sitting, indoor",
+    "description": "The image shows a person sitting on a wooden chair with a leather seat, positioned indoors near a large window. The person is wearing a long-sleeved shirt and rolled-up pants. There is a blanket draped over the back of the chair, and a camera is resting on the person's lap. The background outside the window features blurred greenery and trees, suggesting a natural setting. The image is interesting due to its cozy and relaxed atmosphere, enhanced by the natural light coming through the window and the casual pose of the person.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/86494d6369db11d7cd0e0cf70bb107f4.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing against a backdrop of city lights at night. The person's face is blurred, and the individual is wearing a black, semi-transparent shirt. The person is also wearing a black wristwatch and a necklace with a pendant. The background is out of focus, highlighting the city lights, which create a bokeh effect. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/87955cf2c46339208f2c79676dd505f3.jpg",
+    "filter": "leaning, rustic",
+    "description": "The image shows a person leaning against a wooden wall. The person is wearing a red shirt over a white t-shirt, blue jeans, and white sneakers. The person's left hand is resting on the back of the head, and the right hand is in the pocket. The background consists of wooden panels, and there is a logo or text that reads 'the 7studio's' on the lower right side of the image. The image is interesting due to its casual and stylish portrayal of the person, along with the warm and rustic wooden background.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/88694f4f20a34f6114b2235c91bf9f14.jpg",
+    "filter": "sitting, outdoor",
+    "description": "The image shows a person sitting on a cushioned wooden chair on a balcony or terrace, working on a laptop. The person is dressed in a dark suit and black shoes with a distinctive design. The setting includes a small table with a bottle of champagne, a decorative parrot statue, and a large plant with flowers. The background features tall modern buildings with glass facades, indicating an urban environment. The scene is interesting due to its combination of professional and luxurious elements, suggesting a lifestyle of sophistication and success.",
+    "category": "luxury"
+  },
+  {
+    "image": "images/Casual pose/428878ba3ebb086abe4db85785a3f493.jpg",
+    "filter": "leaning, luxury",
+    "description": "The image shows a person leaning against the back of a black sports car, specifically a Ford Mustang. The person is dressed in a black suit with a black shirt and black loafers. The license plate of the car reads 'BLACK.' The person is holding sunglasses in one hand and has a watch on the other wrist. The background features a road with a guardrail and some greenery, indicating an outdoor setting. The image is interesting due to the stylish and coordinated black outfit of the person, the sleek design of the car, and the personalized license plate.",
+    "category": "luxury"
+  },
+  {
+    "image": "images/Casual pose/672041ba89cccd809f80a4f9a3145ef6.jpg",
+    "filter": "sitting, beach",
+    "description": "The image shows a person sitting on a sandy beach during sunset. The person is wearing a blue shirt and light-colored shorts. The background features the ocean with waves, a rocky shoreline, and a dramatic sky with clouds illuminated by the setting sun. The scene is serene and picturesque, capturing a moment of relaxation and natural beauty. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/8966146fb62a9db4fdb5ab4da5f87734.jpg",
+    "filter": "sitting, outdoor",
+    "description": "The image shows a person sitting cross-legged on the ground. The person is wearing a light pink long-sleeve shirt, black pants with white stripes on the sides, and white sneakers. The person's face is obscured. There is a camera placed on the ground in front of the person. The background appears to be an outdoor setting with blurred greenery. There is a logo or watermark in the top right corner of the image that reads 'AtiGfx' with a crown symbol above it.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/a1c6ed1e5cb930312c76b394e6d60b3f.jpg",
+    "filter": "sitting, indoor",
+    "description": "The image shows a person sitting indoors near a window with blinds. The person's face is blurred. The person is wearing a light-colored, short-sleeved shirt and has a tattoo on the wrist of the right arm. The person is resting the head on the right hand, with the elbow propped up on the knee. The lighting in the image creates shadows and highlights, adding depth to the scene. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/a5f9e761c2f944c7cfad66225ebdd176.jpg",
+    "filter": "standing, outdoor",
+    "description": "The image shows a person standing next to a motorcycle on a road. The person is dressed in black clothing, including a black jacket, black pants, and black shoes. The motorcycle is a classic model with a round headlight and a visible front wheel. The person is leaning on the motorcycle with one hand on the handlebar. The background is slightly blurred, indicating an outdoor setting with trees and a foggy atmosphere. The image is interesting because it captures a stylish and casual pose with a classic motorcycle, which can be appealing for fashion or lifestyle photography.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/a1840f414e9ef3b94a7313dc9120b062.jpg",
+    "filter": "standing, casual",
+    "description": "The image shows a person dressed in a stylish, casual outfit. The person is wearing a grey jacket over a white shirt, paired with black pants and white sneakers. The person's face is blurred out. The outfit is well-coordinated and modern, making it relevant for fashion enthusiasts looking for inspiration on casual yet fashionable attire. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/ab7a3341c951a865de3d98c847896d5b.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing in an urban setting, possibly a modern building or a subway station. The person is wearing a black leather jacket over a gray hoodie, black jeans, and black boots. The background includes large pillars and a staircase, giving the scene an industrial and contemporary feel. The outfit and setting suggest a stylish, urban look. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/abdadb6cc1ab3a0c864d31748f36f64c.jpg",
+    "filter": "squatting, outdoor",
+    "description": "The image shows a person squatting on a road with one hand touching the ground and the other hand raised in the air. The person is wearing a light-colored shirt, blue jeans, and sneakers. The background is blurred, with trees and a road visible. The person's face is obscured by a black square. The image is interesting due to the dynamic pose and the contrast between the person's clothing and the blurred background. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/aee3df6eaacc09342612123c8744c76e.jpg",
+    "filter": "Cool Natural",
+    "description": "A serene, contemplative pose sitting on rocky terrain by the sea, with a relaxed posture and gaze upward, blending perfectly with the natural backdrop of sky and water. Ideal for lifestyle or travel photography.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/af8d18974d91ccc958590584ccad6634.jpg",
+    "filter": "sitting, inside a car",
+    "description": "This casual pose is perfect for a relaxed and natural vibe. Sit in the driver's seat with the car door open, holding the steering wheel with one hand and looking forward. This pose works well for lifestyle and automotive photoshoots.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/af78e6f42155bcfb7b4b844e7668c8fe.jpg",
+    "filter": "walking, street fashion",
+    "description": "This casual and stylish pose is great for street fashion photoshoots. Walk naturally on a cobblestone street with your hands relaxed at your sides. For an added touch, roll up your sleeves and keep your posture confident.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/b0b78a51d76a51075a1f84b690cea53e.jpg",
+    "filter": "one hand near face, black and white",
+    "description": "This artistic and dramatic pose creates an intriguing effect. Raise one hand near your face, forming a gesture with your fingers to add a touch of mystery. The black and white filter enhances the play of light and shadow for a striking visual impact.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Casual pose/b1fc9c742c957a80eea11fdcc37724be.jpg",
+    "filter": "standing, outdoors",
+    "description": "This stylish and confident pose is great for fashion photoshoots. Stand in front of a stone building, wearing a white button-down shirt with the sleeves rolled up and light brown checkered trousers. Keep your hands relaxed and maintain a confident posture.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Casual pose/b5b7180a437e113b7cf8abed9b9d5fa7.jpg",
+    "filter": "standing, sunset",
+    "description": "This stylish and casual pose is great for outdoor photoshoots. Stand with one hand holding your jacket and the other relaxed at your side. Position yourself to have the sunset in the background, creating a warm glow around you.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Casual pose/b7ff7f909ef620c160a31249e1b225ba.jpg",
+    "filter": "leaning against a wall, outdoor",
+    "description": "This casual pose is perfect for a relaxed and natural look. Lean against a brick wall with your arms crossed or resting at your sides. The blurred background adds depth and emphasizes the outdoor setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/b702411083916f0482cd728ade001b64.jpg",
+    "filter": "urban, casual",
+    "description": "This casual pose is perfect for an urban photoshoot. Stand in front of a dilapidated building with broken windows, wearing a striped long-sleeved shirt, dark jeans with a tear on one knee, and white sneakers. The wet ground reflects your legs and shoes, adding a dramatic effect. Accessorize with a watch and a necklace for a stylish look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/bc50ce8bc009badb7bbf8bf1e9174aff.jpg",
+    "filter": "street style, fashionable",
+    "description": "This stylish and edgy pose works great for street style photoshoots. Stand on a street, wearing a brown suede jacket over a black shirt, black pants with a chain accessory, and black combat boots. The combination of casual and edgy elements in the outfit creates a coordinated and fashionable look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/bef277846eb496f0b94c0b20d3cb12b8.jpg",
+    "filter": "standing, urban",
+    "description": "This urban pose is perfect for a bold and edgy look. Stand in front of a corrugated metal door with a confident posture. Hold your phone in both hands and keep your left wristwatch visible. The graffiti on the concrete pillar adds a street-style element to the scene.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/bfaa8d7468915c841631a8facfe98db7.jpg",
+    "filter": "standing, urban, casual",
+    "description": "This stylish and relaxed pose is great for urban and street-style photoshoots. Stand against a brick wall with your hands in your pockets, wearing a dark-colored sweater, pinstriped trousers, black loafers, sunglasses, and a wristwatch. The textured background and well-coordinated outfit add a fashionable touch.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/c1c87cf82b43998847fe0b8baf7f1fa3.jpg",
+    "filter": "standing, urban, stylish",
+    "description": "This stylish and modern pose is great for urban settings. Stand in front of a dark wall with horizontal slats, wearing a white denim jacket over a white t-shirt, paired with gray plaid pants and white sneakers. Keep your posture relaxed and confident.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/c04a49242586b18a090f75b4a32db372.jpg",
+    "filter": "formal, urban",
+    "description": "This formal and professional pose is perfect for business or fashion photoshoots. Stand outdoors in front of a building with arched windows and lush greenery. Adjust the cuff of your dark blue suit jacket for a confident and stylish look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Casual pose/c89abf54c25cefcea83a6187535301d2.jpg",
+    "filter": "standing, modern venue",
+    "description": "This sophisticated and casual pose is ideal for modern, semi-outdoor settings. Stand on a wooden deck, leaning against a railing, dressed in a black suit with a white, partially unbuttoned shirt, and brown and white loafers. The stylish attire contrasts with the formal setting of the venue, making it perfect for a chic photoshoot.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Casual pose/c679a4bdf68f8e6bbd29e76f3c3b9872.jpg",
+    "filter": "leaning against wall, urban",
+    "description": "This casual and stylish pose is perfect for urban photoshoots. Lean against a stone wall with one hand in your pocket and the other holding sunglasses. The city background and casual outfit create a relaxed yet fashionable look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/c802ed8972eab20ae5261c29621a13de.jpg",
+    "filter": "sitting, beach",
+    "description": "This relaxed and casual pose is perfect for beach photoshoots. Sit on the sandy beach near the ocean, with one arm extended behind for support and the other arm resting on your knee. The serene ocean waves in the background create a peaceful and calming atmosphere.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Casual pose/c4961aef0aa108a5bf2b3a608b985cca.jpg",
+    "filter": "sitting, outdoor, sunset",
+    "description": "This relaxed and serene pose is ideal for outdoor photoshoots during sunset. Sit on the ground with your arms crossed over your knees, facing the camera. The blurred background of trees and the sunset sky adds a peaceful and calming atmosphere to the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/cbf8c81959604ff92c1a5e6b6bcfd69e.jpg",
+    "filter": "sitting, sunset",
+    "description": "This serene and relaxed pose is ideal for outdoor photoshoots by the ocean. Sit on a rocky surface near the ocean, wearing a light-colored long-sleeve shirt, beige shorts, and slip-on shoes. The sunset sky and crashing waves in the background add a calming and natural ambiance.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Casual pose/d4b3aa4388bffe7f441e7a937cfd57f9.jpg",
+    "filter": "standing, urban, casual",
+    "description": "This casual and stylish pose is perfect for street fashion photoshoots. Walk naturally on a modern sidewalk, holding something near your face with your right hand and keeping your left hand in your pocket. The glass windows and concrete pathway in the background add an urban touch.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/d78bd0a1862c6c7fd4e5509f18d09688.jpg",
+    "filter": "sitting, urban, stylish",
+    "description": "This casual yet stylish pose is perfect for urban photoshoots. Sit on a bench with your legs slightly apart and lean slightly forward. Rest your elbows on your knees and keep a relaxed posture. The dark green jacket over a gray sweater and black pants with white sneakers create a trendy and fashionable look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/d3873c2a9e297957d67422046192cead.jpg",
+    "filter": "standing, seaside",
+    "description": "This casual and relaxed pose is perfect for beach photoshoots. Stand shirtless with a white towel draped over one shoulder. Hold the towel with one hand and adjust something near your face with the other hand. The ocean and cloudy sky in the background add a serene and natural ambiance.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Casual pose/d59804cbdcf24869eac0580e5b2316d6.jpg",
+    "filter": "standing, indoor, casual",
+    "description": "This casual and stylish pose is great for indoor photoshoots. Stand against a wall with vertical paneling, wearing a light blue denim jacket over a black shirt. Keep your left hand relaxed by your side. The glass window with reflections and blurred lights adds a modern and urban feel to the setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/dcad8acb102a420444ed5e3d1720db5f.jpg",
+    "filter": "leaning against surface, indoor",
+    "description": "This stylish and modern pose is perfect for indoor photoshoots. Lean against a table or counter with one hand in your jacket pocket and the other hand resting on the surface. The black leather jacket and wristwatch add a fashionable touch to the outfit, creating a sleek and confident look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Casual pose/e1c33a16123e628f18ddc8461d23652d.jpg",
+    "filter": "standing, urban, casual",
+    "description": "This casual pose is ideal for urban photoshoots. Stand against a concrete wall with one hand in your pocket and the other hand touching your head. The dark background creates a contrast with your clothing and the concrete wall, adding depth to the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/e235d91c177000a5e45a4d59505a18bf.jpg",
+    "filter": "sitting, indoor, relaxed",
+    "description": "This casual and relaxed pose is great for indoor photoshoots. Sit on a couch with your legs spread apart and one arm resting on the back of the couch. Wear a black outfit, including a black shirt and black pants. The dark background adds a moody and intimate feel to the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/e7192bb74661ef9e0ea060ab9b4d5d28.jpg",
+    "filter": "leaning against SUV, urban, casual",
+    "description": "This casual and stylish pose is great for urban photoshoots. Lean against a black Mahindra Thar SUV, dressed in black clothing and white sneakers. The background includes a white wall with potted plants and a palm tree, adding a relaxed and natural feel to the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/e15230d0164e1ddea72b867a80bd514a.jpg",
+    "filter": "Golden Hour Mood",
+    "description": "A moody, introspective pose seated on a window ledge with a glass in hand, bathed in warm golden-hour lighting and framed by an urban skyline. Perfect for lifestyle or cinematic photography.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/e031268f6592fb4f31c32327820c536e.jpg",
+    "filter": "leaning against car, urban, casual",
+    "description": "This casual and gritty pose is great for urban photoshoots. Lean against an old, worn-out car with missing wheels and visible rust, dressed in a black shirt, ripped black jeans, and black boots. The background of the concrete wall adds to the urban, gritty feel of the scene, creating an interesting juxtaposition between the modern, stylish appearance and the dilapidated state of the car.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/eb79834614583036ff9429968c5756ca.jpg",
+    "filter": "stylish, casual",
+    "description": "This stylish and casual pose is great for various occasions. The person is wearing a grey blazer over a white shirt, paired with black pants and white sneakers. The outfit is well-coordinated and presents a modern, fashionable look suitable for various casual or semi-formal events.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/ee2f225429e578e16fba72cc6fa168a5.jpg",
+    "filter": "standing, casual",
+    "description": "The person is standing against a plain background, dressed in casual attire including a black t-shirt, a green jacket, camouflage-patterned pants, and black sneakers. They are leaning against a piece of equipment with one arm extended, holding onto a cord or wire. The overall pose is relaxed and casual.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/f00c4e731c6fca4594bc27ad10f1f1cc.jpg",
+    "filter": "semi-formal, urban",
+    "description": "The person is dressed in a stylish, semi-formal outfit. They are wearing a dark grey blazer over a black shirt, paired with black pants and white sneakers. The person is leaning against a black railing, with one hand in the pocket and the other resting on the railing. The background is a plain, dark grey wall. This outfit combines formal and casual elements, making it suitable for various occasions.",
+    "category": "semi-formal"
+  },
+  {
+    "image": "images/Casual pose/f884e608df4ff11ec93ac314a55c6c86.jpg",
+    "filter": "sitting, outdoor",
+    "description": "The person is sitting at a table with a body of water and a cloudy sky in the background. They are wearing a black shirt and a necklace. A smartphone is placed on the table in front of them. The text at the bottom of the image reads '511 نحن الحياة Amino' in Arabic.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/f14089b552f68e3949b33939084bdc04.jpg",
+    "filter": "standing, outdoor",
+    "description": "The person is standing on a stone pedestal in an outdoor setting. They are wearing a brown leather jacket, black pants, and black shoes. The background features a stone wall with a wooden door and some potted plants. The person appears to be in a casual pose, possibly adjusting their jacket. The rustic or historical setting adds an interesting element to the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/f20218a5d1a7090f5a3be8e6a056fc42.jpg",
+    "filter": "urban, stylish",
+    "description": "The image shows a person standing next to a gray luxury SUV, specifically a Mercedes-Benz G-Class. The person is dressed in a light blue button-up shirt, dark jeans, and dark shoes, and is holding a light-colored jacket in one hand. The background features a cityscape with a palm tree, a building with multiple windows, and a street sign. The scene appears to be urban and stylish, highlighting a sense of fashion and luxury.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Casual pose/fabdc46fc2f46b9c94b030b220f4ebf0.jpg",
+    "filter": "sitting, relaxed",
+    "description": "The person is sitting on a set of stairs in a relaxed manner. They are wearing a black jacket with various words and letters printed on it, dark jeans, and black boots. They also have glasses and a beard. The background includes a green wall and some blurred elements, suggesting an outdoor or semi-outdoor setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/0a6aaf218e42d50318b9cce1ab8c307c.jpg",
+    "filter": "standing, outdoors",
+    "description": "The person is standing outdoors against a backdrop of dense forest and mountains. They are wearing a white, short-sleeved shirt that is partially unbuttoned and black pants. The person is leaning against a metal railing with both hands resting on it. The setting appears to be a scenic, mountainous area, which adds a natural and serene element to the image. The person is also wearing a wristwatch on the left wrist.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Outdoor/0a60e1204d559888a6e7473773e53d51.jpg",
+    "filter": "walking, tropical",
+    "description": "The person is walking outdoors on a paved path, wearing a striped shirt, beige cargo pants, and white sneakers with red stripes. They are holding a pair of glasses in one hand. The background features palm trees and greenery, suggesting a tropical or warm climate. The clear sky with a few clouds adds to the casual and scenic outdoor setting.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Outdoor/1c199bae95ed3bc18edce6435ba8e1b5.jpg",
+    "filter": "sitting, formal",
+    "description": "The image shows a person sitting in a chair, dressed in a suit with an open-collared shirt, holding a glass of champagne. The background includes a wooden table, a couch, and a wall with framed artwork and a plaque with names written on it. The setting appears to be a formal or semi-formal environment, possibly a lounge or a reception area.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Outdoor/1e2f9d25f91da4a54dd53fa4cc4a6243.jpg",
+    "filter": "sitting, outdoor, evening",
+    "description": "The image shows a person sitting on wooden steps in an outdoor area. They are wearing a brown hoodie with a teddy bear design, black pants, and white sneakers. The background features a modern building with large windows and some signage, including 'inventa' and 'Ristorante Graffetto.' There are also some small trees and a pergola structure. The setting appears to be in the evening or early night, as the lights are on and the sky is dim.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/2a59b80a0d5fbb7205cec3ff1f5a9180.jpg",
+    "filter": "standing, evening",
+    "description": "The image shows a person standing next to an open car door at night. The person is holding a bouquet of red roses and is dressed in a red sweater, black pants, and white sneakers. The car is white, and the scene appears to be in a parking lot or driveway with some buildings and trees visible in the background. The person's face is obscured for privacy. The image is interesting as it suggests a romantic gesture or special occasion, given the bouquet of roses.",
+    "category": "romantic"
+  },
+  {
+    "image": "images/Outdoor/2c5710375e15bd309b60660d879f4b3e.jpg",
+    "filter": "sitting, indoor, contemplative",
+    "description": "The image shows a person sitting on a set of concrete steps. They are wearing a brown long-sleeve shirt, light-colored pants, and brown loafers. The person's face is obscured, and the setting appears to be indoors with a warm, muted color palette. The person is resting their head on their hand, with their elbow on their knee, suggesting a contemplative or relaxed pose.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/2e8375ce9551b8ef4246683ba0d2920d.jpg",
+    "filter": "standing, outdoor, urban",
+    "description": "The person is standing outdoors in an urban setting, leaning against a stone wall. They are dressed in a black outfit, including a black jacket, black pants, and a black beanie. The person is holding a white disposable cup near their mouth, as if drinking from it. The background features a building with multiple windows and an arched entrance, and there is a bicycle parked nearby. The person is also wearing a wristwatch on the left wrist.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/2f32ca0b6fb4c6fd8f80a57d435e8c0e.jpg",
+    "filter": "sitting, outdoor",
+    "description": "The image shows a person sitting outdoors, leaning back and looking upwards. They are wearing a black jacket over a black shirt and have dark, wavy hair. The background features a light-colored wall with shadows of tree branches cast upon it. The lighting suggests it is a sunny day, with the shadows indicating the presence of sunlight.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/3b6e41d8d146b8bffe77cd3ee90a6881.jpg",
+    "filter": "sitting, outdoor, casual",
+    "description": "The image shows a person sitting on a chair at an outdoor seating area. The person is dressed in light-colored clothing, including a light blue and white jacket, light blue pants, and blue and white sneakers. The seating area consists of cushioned chairs and a table, and it appears to be located on a patio or balcony with glass doors and windows in the background.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/3e95d5ecea6d4a959e2ac21e4a88a88e.jpg",
+    "filter": "standing, indoor",
+    "description": "The person is standing in front of a wall with several framed posters and informational plaques. They are wearing a beige turtleneck sweater, black pants, and white sneakers. The wall behind them features posters of various movies, including 'Pet Sematary,' 'Us,' 'The Prodigy,' and 'La Llorona.' The floor is wooden, and the setting appears to be an indoor space, possibly a movie theater or a gallery.",
+    "category": "indoor"
+  },
+  {
+    "image": "images/Outdoor/3edc6b395ba8372619c95bf52c3c7b47.jpg",
+    "filter": "standing, urban, outside, modern",
+    "description": "The image shows a person standing in a modern architectural setting with a glass ceiling and metal framework. The person is wearing a light-colored jacket over a black shirt and dark pants. The background includes a large wooden spherical structure and concrete walls, giving the space an industrial and contemporary feel. The person is leaning casually against a railing, and the overall composition suggests a blend of modern design and casual fashion.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/4daf680ba66efe977951832fe2c4cd11.jpg",
+    "filter": "sitting, modern, casual",
+    "description": "The image shows a person sitting on a high stool in a modern, well-lit caf\u00E9 or restaurant. They are wearing a casual outfit consisting of a jacket, a hoodie, jeans, and sneakers. The caf\u00E9 has a contemporary design with wooden elements, large windows, and stylish lighting fixtures. There are other chairs and tables visible in the background, indicating that the place is designed for social gatherings or dining. The person appears to be adjusting the hoodie or jacket, and there is a reflection of the person in the window behind.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/4e43509dbe6d735a208e8d14c7e5732a.jpg",
+    "filter": "standing, outdoor",
+    "description": "The image shows a person standing in front of a religious statue, likely of the Virgin Mary, which is housed in an arched alcove. The person is wearing a jacket, jeans, and boots, and is leaning against the structure with hands clasped in front. There are small potted plants placed around the base of the statue. The setting appears to be outdoors, with trees visible in the background. The image is in black and white, adding a timeless or contemplative feel to the scene.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Outdoor/4fc61e11246b3821ef044a592e98cf66.jpg",
+    "filter": "sitting, outdoor, urban",
+    "description": "The image shows a person sitting on a cushioned bench outside a café or restaurant. The person is wearing a black leather jacket, black pants, and white sneakers. There is a small round table in front of the person with a pack of cigarettes and a lighter on it. In the background, there is a street scene with a 'Yapı Kredi' bank, a no-entry traffic sign, and a few parked cars. Another person is walking on the sidewalk in the background. The scene appears to be in an urban area during the evening or night, as indicated by the artificial lighting and reflections on the wet pavement.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/5a949d38f3920a585b9d76f393e8d556.jpg",
+    "filter": "sitting, urban, casual",
+    "description": "The image shows a person sitting at a table in a restaurant, viewed through a window. The person is dressed in a suit and is wearing a watch with a red and white striped band. The person's face is obscured. The table has a white tablecloth, a plate, a napkin, and a fork. In the background, there are other people and the reflection of buildings outside. The image is interesting because it captures a candid moment in a busy urban setting, with reflections adding depth and context to the scene.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/5b625e1927af810396424c1a9a64caf5.jpg",
+    "filter": "standing, urban, outdoor, casual",
+    "description": "The image shows a person standing in front of a car. The person is wearing a brown button-up shirt with the sleeves rolled up, black pants, and brown and black shoes. The background includes a covered structure and some blurred trees or foliage. The person’s face is obscured.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/5c92887c98fd907f7aabbafb8f970832.jpg",
+    "filter": "standing, urban, casual",
+    "description": "The image shows a person standing outdoors, leaning against a black railing. The person is wearing a white t-shirt underneath a white button-up shirt with light blue vertical stripes. The person is also wearing light blue jeans and has a small white bag hanging from the left side. The person has curly hair and is wearing multiple rings on the fingers of the left hand, as well as a necklace with a rectangular pendant. The background features a modern building with large glass windows.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/5def954caac0f77e66ffeac091d6478d.jpg",
+    "filter": "sitting, night, urban",
+    "description": "The image shows a person sitting on the trunk of a black car at night. The person is wearing a black shirt, white pants, and white sneakers. The background features tall buildings illuminated with purple lights, and there are trees along the street. The car's license plate is visible, displaying the number '22 B 1896.' The scene is interesting due to the vibrant purple lighting on the buildings, which contrasts with the dark night sky and the street lighting.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/06b4ab8f436c277d3e98d15e645b95ba.jpg",
+    "filter": "leaning, urban, stylish",
+    "description": "The image shows a person leaning against a wall next to a large window. The person is dressed in a black shirt, black pants, and black loafers. The reflection of the person can be seen in the window. The background includes a partial view of a street and some indoor plants visible through the window. The image is interesting as it captures a stylish and casual pose, highlighting the person's fashion sense and the urban environment.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/6a887876c0a9d959e54a4faf3db04574.jpg",
+    "filter": "sitting, outdoor, relaxed",
+    "description": "The image shows a person sitting outdoors, possibly at a beach or poolside location. The person is wearing a light-colored, striped shirt and holding a drink with a straw in one hand. The other hand is holding a pair of sunglasses. The person is also wearing a wristwatch and a bracelet. In the background, there is a blurred view of a body of water and some boats. The image is interesting because it captures a relaxed, leisurely moment in a scenic outdoor setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/6bfca34ab51da1c7f08287337c92e319.jpg",
+    "filter": "standing, casual",
+    "description": "The image shows a person standing against a concrete wall. The person is dressed in a casual outfit consisting of a white t-shirt, an open button-up shirt, beige cargo pants, and white sneakers. The person has one hand in the pocket and is looking down. The background includes some foliage on the right side. The text 'PIN / LIZ_HOTCUPLO' is visible at the top right corner of the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/7b2bfb794e5c9c17b5dacd46f935b6d4.jpg",
+    "filter": "standing, outdoor, festive",
+    "description": "The image shows a person standing under a structure with a tiled roof and string lights. The person is wearing a light blue shirt that is unbuttoned and white pants. The background includes lush greenery, palm trees, and additional lighting, suggesting an outdoor setting, possibly a garden or a patio at night. The scene is illuminated with decorative lights, creating a festive or relaxed atmosphere.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/7b95e23d5ee14b3c9b67124e46ffcd8c.jpg",
+    "filter": "sitting, road, outdoor, casual",
+    "description": "The image shows a person sitting on a road with a yellow line running down the center. The person is wearing a brown hoodie, black pants, and black and white sneakers. The person has several rings on the fingers and is wearing a wristwatch and a bracelet. The background includes some greenery and power lines. The perspective of the photo is low, making the person appear larger and more prominent in the frame. The image is interesting due to its composition and the casual, relaxed pose of the person.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/7dfc0d68f148aa1ebde904b9e482c63b.jpg",
+    "filter": "leaning, architectural, stylish",
+    "description": "The image shows a person leaning against a wall in a stylish and relaxed pose. The person is dressed in a dark, long-sleeved shirt tucked into high-waisted trousers and is wearing dark shoes. The setting appears to be an architectural space with large columns and a polished floor. The image is in black and white, which adds a classic and timeless feel to the scene.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/7e65e87d4e9e64b0f155cf0f4d28c041.jpg",
+    "filter": "sitting, casual",
+    "description": "The image shows a person sitting on the ground in front of a white wall. The person is wearing a black jacket, a black hoodie with white text that reads 'E.T. THE EXTRATERRESTRIAL,' light blue jeans, and black and white sneakers. The person is holding the collar of the hoodie with both hands. There are some fallen leaves scattered on the ground around the person. The overall style is casual and relaxed.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/7f2d03f16d0c931657c99f28e5625fd4.jpg",
+    "filter": "standing, outdoor, garden",
+    "description": "The image shows a person standing outdoors in a garden-like setting. The person is wearing a black hoodie with some text on it, gray pants, and white sneakers. The surroundings include various green plants and trees, a tiled pathway, and a metal grate on the ground. The scene appears to be peaceful and natural, with sunlight filtering through the trees.",
+    "category": "garden"
+  },
+  {
+    "image": "images/Outdoor/7f9de1554231ab4272c54202f2efe032.jpg",
+    "filter": "leaning, stylish, monochromatic",
+    "description": "The image shows a person leaning against a wall, dressed in a stylish black suit with a black shirt and black shoes. The person has curly hair and is posing with one hand on the wall and the other hand touching their hair. The background includes a section of a wall with a brick pattern and a chain barrier. The image is interesting as it showcases a fashionable and confident pose, highlighting the person\u0027s sense of style and the sleek, monochromatic outfit.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/7f867778514b30c3c69ce46061794622.jpg",
+    "filter": "standing, outdoor, casual",
+    "description": "The image shows a person standing outdoors against a black tiled wall. The person is wearing a white, long-sleeved, button-up shirt with the sleeves rolled up, light blue jeans, and white sneakers. The setting includes a wooden deck and a tiled floor. The image is interesting as it showcases a casual yet stylish outfit suitable for a relaxed day out.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/8abbc4897abcb1a76a2707ec58f2f951.jpg",
+    "filter": "leaning, car, monochromatic",
+    "description": "The image shows a person leaning against a sports car. The person is wearing a white jacket, dark pants, and white shoes. The car has a sleek design with prominent wheels and a visible logo on the hubcap. The background includes trees and a fence. The image is in black and white, adding a stylish and classic feel to the scene.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/8bf33ba66d067fa58a790169403660ec.jpg",
+    "filter": "leaning, outdoor, casual",
+    "description": "The image shows a person leaning against a wall outdoors. The person is dressed in a black short-sleeve button-up shirt, black trousers, and black and white sneakers. The background includes a building with a brown and white exterior, a green plant, and a paved area with some grass. The person is standing in a relaxed pose with one hand resting on the wall and the other in the pocket. The image is interesting as it captures a casual fashion style and a relaxed demeanor.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/8c9b0986bf994dc92d1d122e6dd69a0d.jpg",
+    "filter": "standing, casual",
+    "description": "The image shows a person standing against a dark, horizontally-striped wall. The person is wearing a green short-sleeved shirt, black pants, and black shoes. The person has one leg crossed over the other and is holding the shirt with one hand while the other hand rests by the side. The person's face is obscured. There are some green leaves visible on the left side of the image. The image is interesting due to its composition and the contrast between the person's clothing and the dark background.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/8c2572702202f1817bc5fb11b108c5f0.jpg",
+    "filter": "standing, night, casual",
+    "description": "The image shows a person standing in front of a house at night. The person is wearing a light-colored sweatshirt, beige pants, and white sneakers. The person's face is obscured. Behind the person, there is a black car with its rear lights on, parked in front of a garage. The house has a brick exterior, and the number '26' is visible above the garage. The text 'Crescent' is also visible on the house. The driveway and the area around the house are well-lit.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/8d3e4327ecfa3febe02f1fd8aa3078ab.jpg",
+    "filter": "standing, urban, stylish",
+    "description": "The image shows a person standing in front of a storefront with a sign that reads 'Fine Pizzeria.' The person is dressed in a dark suit and black turtleneck, and there is a white scooter parked nearby. The background includes a green and white striped awning and a glass door with reflections of the street. The scene appears to be urban, possibly in a city setting. The image is interesting because it captures a stylishly dressed individual in a casual, everyday urban environment, blending elements of fashion and city life.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/8f25ec432693f7e7d7e7a4a192cf6798.jpg",
+    "filter": "standing, urban, outdoor, stylish",
+    "description": "The image shows a person standing on a staircase next to a large window with black frames. The person is dressed in a black long-sleeve shirt, black pants, and white sneakers. The background includes some greenery visible through the window, adding a natural element to the scene. The person appears to be casually leaning against the window frame, with one hand in the pocket and the other resting on the hip. The lighting creates a contrast between the dark clothing and the bright surroundings, making the person stand out. The image is interesting due to its composition, use of natural light, and the contrast between the indoor and outdoor elements.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/9a4ffac6d1696803d61e631a7a76c9fe.jpg",
+    "filter": "standing, urban, outdoor, stylish",
+    "description": "The image shows a person dressed in a black suit standing on a set of stone steps. The person is holding a pair of sunglasses in one hand and has the other hand in a pocket. The background consists of a large, modern building with a stone facade. The image is interesting because it captures a stylish and confident pose, highlighting the person's formal attire and the urban setting. There are no math or homework problems in the image.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/9af367b88973d71e366296019ecbf096.jpg",
+    "filter": "standing, stylish, formal",
+    "description": "The image shows a person dressed in a formal black suit with a white shirt, standing in a relaxed pose against a wall with a decorative pattern. The person is leaning against a wooden console table that has a green decorative vase with cut-out patterns on it. Above the table, there is a round mirror with an ornate frame. The setting appears to be indoors, possibly in a home or a stylish office. The image is interesting because it captures a sophisticated and stylish look, highlighting the person\u0027s fashion sense and the elegant interior decor.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/9cdf0a5d8b190db05b73549ec4c94ba7.jpg",
+    "filter": "sitting, casual, motorcycle",
+    "description": "The image shows a person sitting on a black motorcycle. The person is wearing a black t-shirt with the text 'TRAVEL BUDDIES' printed on it, black track pants with white stripes, and white slides with text on them. The motorcycle is parked on a paved surface, and there is a gray wall with some plants and trees in the background. The person's face is obscured. The image is interesting as it captures a casual moment of someone with their motorcycle, possibly indicating a love for travel or adventure.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/9f0ca5bfad23f32dd9ba20a5aebbb1ee.jpg",
+    "filter": "urban, historic, stylish",
+    "description": "The image shows a person wearing a brown suede jacket over a white shirt, with a stylish wristwatch on the left wrist. The background features an ancient architectural structure with large arches, resembling the Colosseum in Rome. The image is interesting as it combines modern fashion with a historic backdrop, creating a contrast between contemporary style and ancient architecture. There are no math or homework problems in the image.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/12f8a3ed035632d3b20db62676976777.jpg",
+    "filter": "sitting, casual, tattoo",
+    "description": "The image shows a person sitting on a chair with hands clasped together. The person's face is blurred. The person is wearing a black t-shirt and has multiple tattoos on both arms. The tattoos include various designs and text. The person appears to be indoors, with sunlight casting shadows on the background.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/15a232b13e5866b075d56f25314ee1da.jpg",
+    "filter": "sitting, outdoor, casual",
+    "description": "The image shows a person sitting outdoors, leaning against a railing. The person is wearing a dark blue shirt with white vertical stripes and sunglasses. The background is blurred, but it appears to be a green, possibly garden-like area with some plants and a building structure. The image is interesting due to its composition, with a focus on the person and a blurred background that creates a depth-of-field effect.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/28d9e7a005cb45ac1fbd3bec86a9a91e.jpg",
+    "filter": "standing, outdoor, relaxed",
+    "description": "The image shows a person standing on a wooden dock by a body of water. The person is wearing a green and white checkered shirt, dark pants, and brown boat shoes. The background features a clear blue sky with some clouds and distant trees. The person is leaning against a wooden post on the dock, with one leg crossed over the other. This image is interesting because it captures a casual, relaxed moment in a scenic outdoor setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/31ac8c5997a119a8112204c33c580d4f.jpg",
+    "filter": "walking, urban, outdoor, candid",
+    "description": "The image shows a person walking on a paved area in front of a modern building with large windows and some greenery. The person is wearing a black polo shirt, blue jeans, and white sneakers. The background includes plants and a red box, possibly a fire hydrant or a mailbox. The image is interesting as it captures a candid moment of someone walking in an urban environment, highlighting the architecture and landscaping of the area. There are no math or homework problems in the image.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Outdoor/032aeb58ddbca138bc9af184ed1fbe78.jpg",
+    "filter": "leaning, urban, outdoor, formal",
+    "description": "The image shows a person leaning against a stone structure with graffiti on it. The person is dressed in a dark short-sleeved shirt, gray trousers, and black shoes. The background features a building with large windows. The person's face is blurred. The image is interesting due to the contrast between the person's formal attire and the urban, slightly gritty setting.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Outdoor/35c24edc27d8e3a0c1016e0e7214805d.jpg",
+    "filter": "sitting, urban, outdoor, formal",
+    "description": "The image shows a person sitting on a set of granite stairs. The person is dressed in a black suit, black shirt, and black shoes. The person is wearing a wristwatch on the left wrist and a ring on the right hand. The setting appears to be an urban environment, possibly near an office building, as indicated by the granite stairs and the polished stone wall in the background. The image is interesting due to the formal attire and the relaxed pose of the person, which creates a contrast between professionalism and casualness.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Outdoor/35da5a19634ff5a18c8d3f2860081616.jpg",
+    "filter": "standing, night, outdoor, formal",
+    "description": "The image shows a person dressed in a white shirt, black tie, and dark jacket, leaning against a window ledge. The background features a beautifully lit, ornate building with classical architecture, likely a historic or significant landmark, illuminated at night. The scene outside the window includes street lamps and other buildings, adding to the ambiance of the night-time cityscape. This image is interesting due to the contrast between the well-dressed individual and the grand, illuminated architecture, creating a visually appealing and sophisticated atmosphere.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Outdoor/48b11c1a83477b1ee0df392b02fee4e0.jpg",
+    "filter": "standing, casual",
+    "description": "The image shows a person standing on a wooden deck in front of a large black tiled wall. The person is wearing a white long-sleeved shirt, light blue jeans, and white shoes. The person is holding their hair with one hand and looking down. The background includes a tiled floor and a black wall with a grid pattern. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/48bb370b068434b8b00a781fa7c24780.jpg",
+    "filter": "sitting, urban, greenery",
+    "description": "The image shows a person sitting on a concrete ledge in an outdoor setting with greenery in the background. The person is wearing a brown corduroy jacket over a black shirt and black pants. The face of the person is blurred out. The setting appears to be urban, with modern architectural elements and plants around. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/53a8fed54ff82225ddd2f89509f49010.jpg",
+    "filter": "standing, outdoor, casual",
+    "description": "The image shows a person standing in front of a building with a stone facade. The person is wearing a black long-sleeved shirt and white shorts, with hands in pockets. The person's face is obscured. The background includes a window with a black frame and a reflection of the sky. The image is interesting as it captures a casual yet stylish outfit in an outdoor setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/65d206e5d19762b19aef6162c50f4bf8.jpg",
+    "filter": "sitting, formal, night",
+    "description": "The image shows a person sitting at a wooden table in a restaurant or bar. The person is dressed in a black suit with a white shirt and black tie, holding a glass with a drink in one hand. On the table, there are two glass carafes, one of which contains ice and a straw. The background features large windows with a view of a cityscape illuminated at night, including a building with blue lights and other patrons seated at tables. The setting appears to be a social or formal gathering in an upscale venue.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Outdoor/67c0e70fcec262e002793a11b4359f87.jpg",
+    "filter": "sitting, formal, plain background",
+    "description": "The image shows a person sitting on a dark leather couch. The person is dressed in a black suit and black loafers, with legs spread apart and hands placed on the head. The background is plain and neutral. The person\u0027s face is obscured by a pixelated block. There are no math or homework problems visible in the image.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Outdoor/68e2c8911f8b602cb7184187b6d3ef2c.jpg",
+    "filter": "leaning, car, foggy, outside, industrial",
+    "description": "The image shows a person leaning against a black car, which appears to be a BMW, parked near a body of water. In the background, there is a large bridge with a distinctive triangular support structure, partially obscured by fog. The person is wearing a white jacket with green stripes on the sleeves. The scene is atmospheric due to the fog and the industrial setting of the bridge and water. There are no math or homework problems in the image.",
+    "category": "industrial"
+  },
+  {
+    "image": "images/Outdoor/68eb751cefb09dbd956116e1190b980b.jpg",
+    "filter": "sitting, outdoor, tropical",
+    "description": "The image shows a person wearing a brightly colored shirt with a tropical palm tree design. The shirt has a gradient from pink to yellow. The person’s face is blurred, and the person is sitting in an outdoor setting with dappled sunlight filtering through a canopy above. The person is resting the chin on the hand, and the background appears to be a casual, possibly tropical or beachside location. There are no math or homework problems in the image.",
+    "category": "tropical"
+  },
+  {
+    "image": "images/Outdoor/75b834d6ed91e918bbd9ca62dd172f45.jpg",
+    "filter": "standing, indoor, casual",
+    "description": "The image shows a person wearing a beige shirt with rolled-up sleeves. The person\u0027s face is blurred. The person is wearing a wristwatch on the left wrist and has a beard. The person is posing with the right hand touching the chin and the left arm resting on a surface. The background appears to be indoors, possibly in a bathroom or a similar setting. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/75e7b552a0462283a9a0c5c783cee8da.jpg",
+    "filter": "sitting, outdoor, casual",
+    "description": "The image shows a person sitting outdoors in a relaxed pose. The person is wearing a white, short-sleeved button-up shirt with the sleeves rolled up and black pants. The person has a necklace with a small pendant and is holding a pair of sunglasses in one hand. The background includes greenery and tall buildings, suggesting an urban setting with some natural elements. The image is interesting as it captures a casual and stylish look in a modern, urban environment.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/79f6e79245b06a34b52ff340f59623f7.jpg",
+    "filter": "leaning, outdoor, stylish",
+    "description": "The image shows a person leaning against a railing in an outdoor setting. The person is dressed in a stylish outfit consisting of a beige blazer, a black shirt, black pants, and black loafers. The background features a brick building with arched windows and a large planter with dried plants. The setting appears to be urban and sophisticated, possibly a city street or a courtyard. The person's face is blurred for privacy. The image is interesting as it showcases a fashionable outfit and a well-composed urban scene. There are no math or homework problems in the image.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/86e0b1e8caddb318290e9aa11c611c2f.jpg",
+    "filter": "standing, outdoor, casual",
+    "description": "The image shows a person standing outdoors in front of a white building with shuttered windows. The person is wearing a light brown jacket over a white shirt, cream-colored pants, and white sneakers with green accents. The background includes potted plants and a tiled ground with grass in between the tiles. The scene is well-lit, suggesting it is daytime. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/88b0331deb9128ee25cd6ea3dcf84c19.jpg",
+    "filter": "sitting, outdoor, casual, stylish",
+    "description": "The image shows a person sitting at an outdoor café table. The person is dressed in a light gray pinstripe suit with a white t-shirt and black sneakers. The café has a sign that reads 'Le Carreau' on the wall behind the person. On the table, there are two cups, one with coffee and another with a beverage that appears to be iced coffee. There is also a pair of sunglasses on the table. The chairs are made of wicker with a woven pattern on the seats and backs. The setting appears to be a casual yet stylish café scene.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/92d4648ac5773c31837e7e5c8fec051b.jpg",
+    "filter": "sitting, casual, restaurant",
+    "description": "The image shows a person sitting on a high stool in what appears to be a restaurant or café. The person is wearing a green jacket, black pants, and white sneakers. The background includes a sign that reads 'GRILLED BURGERS' and some other restaurant elements like tables, chairs, and a counter. The setting suggests a casual dining environment. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/94bd2d1f550165849c443d9d0e02d46e.jpg",
+    "filter": "standing, outdoor, scenic",
+    "description": "The image shows a person standing on a balcony with a scenic background of lush green trees and mountains. The person is wearing a brown jacket and light blue jeans. The balcony has a wooden floor and a railing with intricate designs. The background features a beautiful landscape with dense forest and snow-capped mountains under a clear blue sky. This image is interesting due to the picturesque natural scenery and the serene environment it captures. There are no math or homework problems in the image.",
+    "category": "scenic"
+  },
+  {
+    "image": "images/Outdoor/95b76d0f6524dc350cd676a473571706.jpg",
+    "filter": "sitting, outdoor, cafe",
+    "description": "The image shows a person sitting at an outdoor café. The person is wearing a light blue and white striped shirt, beige pants, and white sneakers. The person has a watch on the left wrist and is sitting with legs crossed, resting the right arm on the table and the left hand near the face. The background includes a stone wall and a window displaying what appears to be a bakery or café interior with shelves of baked goods. The setting suggests a relaxed and casual atmosphere.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/99e79d78a67ede0af116fd17858a3009.jpg",
+    "filter": "standing, casual, industrial",
+    "description": "The image shows a person standing in front of a corrugated metal wall. The person is wearing a white button-up shirt with the sleeves rolled up and dark jeans. The person is also wearing a wristwatch on the left wrist and appears to be holding something near the face with the right hand. The background features a rustic, industrial setting with weathered metal panels, adding an interesting contrast to the person\u0027s clean and casual attire. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/300c79b6a38f3916a0e2906cf055e0a1.jpg",
+    "filter": "sitting, outdoor, casual, night",
+    "description": "The image shows a person sitting on a white chair in an outdoor seating area of a restaurant or café at night. The person is wearing a black and white checkered shirt, black pants, and black and white sneakers. The seating area has several tables and chairs, with warm lighting from hanging lamps and string lights. The background features a modern structure with a glass roof and additional seating. The setting appears to be relaxed and inviting, making it an interesting place for socializing or dining. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/305ec85fe46a1541cb4ac88e68741af8.jpg",
+    "filter": "sitting, sea, motivational",
+    "description": "The image shows a person sitting on rocks by the sea, facing away from the camera. The person is wearing a white t-shirt with the text 'NEVER GIVE UP' on the back, along with a colorful graphic. The person is also wearing black shorts, white socks, and white sneakers. The person appears to be looking out at the water, where two ships are visible in the distance. The scene is set during what appears to be sunset, with the sky having a warm, orange hue. The image is interesting because it captures a serene moment of contemplation by the sea, enhanced by the motivational message on the t-shirt. There are no math or homework problems in the image.",
+    "category": "motivational"
+  },
+  {
+    "image": "images/Outdoor/334a7401c2e103837e5ac6c469c4da07.jpg",
+    "filter": "walking, urban, professional",
+    "description": "The image shows a person dressed in a dark suit, white shirt, and striped tie walking across a wet street in an urban setting. The background features tall buildings, traffic lights, and cars, indicating a busy city environment. The street is wet, suggesting recent rain. The person is wearing black shoes and appears to be in motion, possibly crossing the street. The traffic lights are red, indicating that vehicles should stop. The image captures a moment of urban life and the professional attire of the person suggests a business context.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Outdoor/386df167b3a46c3f31b06b0ba182950a.jpg",
+    "filter": "standing, outdoor, casual",
+    "description": "The image shows a person standing in front of a large tree with textured bark. The person's face is blurred, and they are wearing a dark jacket with a red patch on the sleeve and a black shirt underneath. The tree trunk has carvings and initials etched into it, which suggests that people have interacted with this tree over time. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/453eab659b416ee0bf04665339149160.jpg",
+    "filter": "walking, outdoor, formal",
+    "description": "The image shows a person walking down a set of stone steps in an outdoor setting. The person is dressed in a stylish outfit consisting of a black blazer, a brown shirt, black pants, and black boots. The person has one hand in a pocket and is holding something near the face with the other hand. The background includes large stone columns and an architectural structure, suggesting a formal or historical setting. The image is interesting because it captures a fashionable and confident look in a sophisticated environment.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Outdoor/575e244cea60763b6673e74562b98609.jpg",
+    "filter": "standing, event, stage",
+    "description": "The image shows a person standing in front of a backdrop with the text 'ah' partially visible. The person is wearing a black button-up shirt with the sleeves rolled up, gray trousers, and black loafers. The person's hands are in the pockets, and the face is obscured. The backdrop appears to be part of a stage or event setting. There are no math or homework problems in the image.",
+    "category": "event"
+  },
+  {
+    "image": "images/Outdoor/621d0d10ce0dfd70dafb27ba1a3c24f2.jpg",
+    "filter": "standing, outdoor, scenic, sunset",
+    "description": "The image shows a person standing outdoors in front of a scenic landscape during sunset. The sky is filled with vibrant orange and pink hues, creating a striking backdrop. The person is wearing a red beanie and a dark jacket, and is looking upwards. The background includes a field with trees and bushes, adding to the natural beauty of the scene. There are no math or homework problems in the image.",
+    "category": "scenic"
+  },
+  {
+    "image": "images/Outdoor/702f30dd9feb654f6f65531b015aa7fc.jpg",
+    "filter": "standing, outdoor, fashion",
+    "description": "The image shows a person standing on a paved sidewalk in front of a building with white walls and wooden doors. The person is wearing a red and white striped long-sleeve shirt, white pants, and white sneakers. The background includes potted plants and a tree with green leaves. There are numerical markings on the left and right sides of the image, indicating measurements in increments of 20, from 0 to 60. The image appears to be taken outdoors, and the person is posing casually, possibly for a fashion or lifestyle photograph.",
+    "category": "fashion"
+  },
+  {
+    "image": "images/Outdoor/723f1a76d8774fd6be153ee24872f046.jpg",
+    "filter": "sitting, indoor, casual",
+    "description": "The image shows a person sitting on a chair in front of a large window with a blurred outdoor background. The person is wearing a dark green short-sleeved shirt, plaid trousers, and brown dress shoes. The person is holding the head with one hand and has the other hand resting on the knee. The person's face is blurred. The setting appears to be indoors with natural light coming through the window. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/75b834d6ed91e918bbd9ca62dd172f45.jpg",
+    "filter": "standing, indoor, stylish",
+    "description": "The image shows a person wearing a beige or light brown outfit with a wrap-around design and a pocket on the chest. The person is standing indoors, possibly in a bathroom or dressing room, as indicated by the background elements such as a towel rack and a shower curtain. The person is also wearing sunglasses and a chain necklace. The image is interesting because of the stylish and unique outfit choice, which stands out due to its color and design. There are no math or homework problems present in the image.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/922bc1f907bd1a959b1264a2610334f8.jpg",
+    "filter": "standing, outdoor, casual",
+    "description": "The image shows a person standing in front of a green windowed structure. The person is wearing a black t-shirt, green cargo pants, and white sneakers. The person is holding a plaid shirt in one hand and has the other hand in a pocket. The background includes some greenery and a brick ledge. The image is interesting as it showcases a casual and stylish outfit. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/941f7b2f1c307d2bf85feff9e301f9e0.jpg",
+    "filter": "leaning, sunset, casual",
+    "description": "The image shows a person leaning against a metal guardrail by the side of a road. The person is wearing a white t-shirt with some text and graphics on it, light blue jeans, and white sneakers. The background features a sunset with the sun low in the sky, casting a warm glow. There are trees and a road visible in the background. The scene appears to be calm and serene, with the sunset adding a picturesque element to the image. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/01050ff042daed6682e999692c80e298.jpg",
+    "filter": "standing, indoor, formal",
+    "description": "The image shows a person standing indoors in front of a staircase. The person is wearing a dark-colored, long-sleeved shirt tucked into light-colored trousers, paired with brown dress shoes. The background includes a staircase with dark steps, light-colored walls, and curtains on either side. The person is also wearing a wristwatch and a necklace. The setting appears to be a well-decorated indoor space, possibly a home or a formal venue. There are no math or homework problems visible in the image.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Outdoor/3551a474cb642c8dc7764a7927da8abd.jpg",
+    "filter": "sitting, outdoor, seaside",
+    "description": "The image shows a person sitting on a rocky shore by the sea. The person is wearing a dark blue shirt with white patterns, white shorts, and white sneakers with black accents. The person is sitting on a large rock, with one leg bent and the other extended, and appears to be looking down or resting their head on their hand. The background features clear blue water and rocky formations, with a clear sky above. The scene is serene and picturesque, capturing a moment of relaxation by the seaside. There are no math or homework problems in the image.",
+    "category": "seaside"
+  },
+  {
+    "image": "images/Outdoor/6469f0c0f239199d06497b9a20228369.jpg",
+    "filter": "sitting, indoor, cozy",
+    "description": "The image shows a person sitting on a high stool at a wooden counter in a dimly lit room. The person is holding a yellow cup, possibly containing a beverage, with both hands. The person is dressed in dark clothing, including a black sweater and dark pants, and is wearing white sneakers. There is a black backpack placed on the counter next to the person. Above the person, there are two hanging lights with warm bulbs, and on the wall behind the person, there is a framed picture of a face with the facial features obscured. The overall ambiance of the room is dark and cozy, with a minimalist and modern aesthetic. This image is interesting due to its moody lighting and the contrast between the dark surroundings and the bright yellow cup, which draws attention to the person and their activity.",
+    "category": "cozy"
+  },
+  {
+    "image": "images/Outdoor/7327e917875133ad5457536d34bb1dae.jpg",
+    "filter": "sitting, outdoor, beach",
+    "description": "The image shows a person sitting on a grassy area near a beach. The person is wearing a dark t-shirt, black shorts, white socks, and white sneakers. Behind the person, there is a makeshift volleyball net set up with two wooden poles. The background includes a clear blue sky and the horizon where the sea meets the sky. The scene appears to be calm and serene, with the person seemingly relaxed and enjoying the outdoor setting. There are no math or homework problems visible in the image.",
+    "category": "beach"
+  },
+  {
+    "image": "images/Outdoor/8267d14967719dde5240bff37919d17a.jpg",
+    "filter": "standing, outdoor, stylish, autumn",
+    "description": "The image shows a person standing on a set of outdoor steps surrounded by trees with autumn leaves. The person is dressed in a stylish outfit consisting of a dark suit with a deep V-neck shirt and loafers. The background features a natural setting with trees and fallen leaves, creating a contrast with the formal attire. The person's face is obscured for privacy. This image is interesting due to the juxtaposition of formal fashion against a natural, rustic backdrop, highlighting a blend of elegance and nature.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/71233c9484628a934858579c074cdcdf.jpg",
+    "filter": "sitting, sunset, outdoor, cityscape",
+    "description": "The image shows a person sitting on a ledge overlooking a cityscape during sunset. The person is wearing a black jacket, white pants, and black sneakers. The city below is blurred, with lights starting to turn on, indicating the transition from day to night. The sky is painted with hues of orange, pink, and purple, adding a serene and picturesque quality to the scene. The image is interesting because it captures a moment of contemplation and the beauty of the urban landscape at dusk. There are no math or homework problems in the image.",
+    "category": "cityscape"
+  },
+  {
+    "image": "images/Outdoor/345512a65126bce44bbc02eabf7f0d06.jpg",
+    "filter": "leaning, outdoor, casual",
+    "description": "The image shows a person leaning against a wall outdoors. The person is wearing a white t-shirt with the word \"FORWARD\" printed on it, along with some graphic elements, and blue jeans. The background includes a blurred view of a building and some greenery. The image is interesting as it captures a casual, relaxed moment in an urban setting. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/396533f451642a1a23d5c7aa0821c328.jpg",
+    "filter": "sitting, sunset, outdoor, water",
+    "description": "The image shows a person sitting on a stone ledge near a body of water during sunset. The person is wearing a green long-sleeve shirt with the text \"PEANUTS ATHLETIC CLUB\" on it, black pants, and black and white sneakers. There is a bottle of Pepsi placed on the stone ledge to the right of the person. The background features a calm body of water, a distant shoreline with trees, and a sky transitioning from blue to orange hues as the sun sets. The scene is serene and picturesque, capturing a moment of relaxation and natural beauty. There are no math or homework problems in the image.",
+    "category": "sunset"
+  },
+  {
+    "image": "images/Outdoor/550813d4a0b65342a62f36004488b234.jpg",
+    "filter": "sitting, indoor, outdoor, minimalist",
+    "description": "The image shows a person sitting on a wooden chair in a modern, minimalist setting. The person is dressed in a dark suit with a white shirt and black shoes. The background consists of plain, gray walls, contributing to the minimalist aesthetic. The person's face is obscured, focusing attention on the attire and posture. The image is interesting due to its stylish and sophisticated composition, highlighting fashion and interior design elements. There are no math or homework problems in the image.",
+    "category": "minimalist"
+  },
+  {
+    "image": "images/Outdoor/871831f3ccd221ecc3d8fe0005631571.jpg",
+    "filter": "leaning, urban, casual",
+    "description": "The image shows a person leaning against a wooden wall with windows, dressed in a black outfit including a scarf, and white sneakers. The person has one leg bent and resting against the wall, and hands clasped together. The face is blurred out. The setting appears to be urban, possibly on a sidewalk. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/4507777d119afd3b5aabe34e4a66be87.jpg",
+    "filter": "sitting, outdoor, night, casual",
+    "description": "The image shows a person sitting on a chair outdoors at night. The person is wearing a black shirt, light blue jeans, and white sneakers. The person is holding their head with one hand, and the face is blurred. There are potted plants on the left side, and a table with a large cup and some items on it to the right. In the background, there is a building with a light fixture and a parked car. The setting appears to be a casual outdoor area, possibly near a café or restaurant. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/47316755ccd5550448a20c38ac2a99d3.jpg",
+    "filter": "standing, urban, industrial, casual",
+    "description": "The image shows a person standing in front of a metal mesh fence. The person is wearing a light-colored, partially unbuttoned shirt and dark, distressed jeans. The person's face is obscured. The person is leaning against a wall with one arm extended, holding onto the wall. The background appears to be an industrial or urban setting with some wooden planks leaning against the wall. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/89073981c3878845a64fa732a5d7380e.jpg",
+    "filter": "standing, indoor, stylish",
+    "description": "The image shows a person wearing a beige shirt with a collar and a pocket on the left side. The person is holding a pair of sunglasses in the right hand. The background appears to be indoors, possibly in a bathroom or a room with beige-colored walls. The person is also wearing a gold necklace and a bracelet on the right wrist. The image is interesting because it captures a casual yet stylish look with the beige shirt and accessories.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/a2fa2191428b3eef625aae431f2d0bd7.jpg",
+    "filter": "standing, indoor, elegant",
+    "description": "The image shows a person standing on a staircase in a well-lit, elegant interior space. The person is dressed in a black suit and black shoes, with hands in pockets, posing confidently. The staircase has glass railings and is illuminated by small lights embedded in the steps. Above the staircase, there is a large, artistic chandelier with numerous hanging elements, adding to the luxurious ambiance of the setting. The background includes large windows that allow natural light to flood the area, enhancing the overall sophisticated atmosphere.",
+    "category": "elegant"
+  },
+  {
+    "image": "images/Outdoor/a09f81bcaf9bdee17fc510e2e8a64eee.jpg",
+    "filter": "sitting, motorcycle, rustic",
+    "description": "The image shows a person sitting on a motorcycle in front of a wooden structure. The person is wearing a black leather jacket, black pants, and black shoes. The motorcycle is black with the letters 'RO' visible on the side. The wooden structure behind the person and the motorcycle appears to be a rustic building with a corrugated metal roof. The scene is set on a paved road. This image is interesting because it captures a moment of stillness and style, with the person and the motorcycle both exuding a sense of coolness and ruggedness. There are no math or homework problems in the image.",
+    "category": "rustic"
+  },
+  {
+    "image": "images/Outdoor/a76f6b3d053ecbd87f55af00837c4fe3.jpg",
+    "filter": "standing, indoor, casual, aquarium",
+    "description": "The image shows a person standing in front of a rocky background, possibly in an aquarium or a similar setting. The person is wearing a purple polo shirt and blue jeans. The person has a smartwatch on the left wrist and a bracelet on the right wrist. The background includes a stone wall and what appears to be an underwater scene with rocks and possibly some aquatic plants. The image is interesting due to the combination of the person's casual attire and the unique, possibly aquatic, setting. There are no math or homework problems in the image.",
+    "category": "aquarium"
+  },
+  {
+    "image": "images/Outdoor/a356d5506012d03271a2246b1d8c2c07.jpg",
+    "filter": "standing, sunset, scenic",
+    "description": "The image shows a person standing outdoors, facing away from the camera, with a scenic view of a sunset over a forested landscape and a body of water in the background. The sky is painted with hues of orange, pink, and blue, creating a picturesque and serene atmosphere. The person is wearing a white t-shirt with a colorful design on the back and dark pants. The scene is interesting due to the beautiful natural setting and the vibrant colors of the sunset, which add a sense of tranquility and beauty to the image. There are no math or homework problems in the image.",
+    "category": "scenic"
+  },
+  {
+    "image": "images/Outdoor/a462b097518a899a30fb6e91ed82db12.jpg",
+    "filter": "crouching, outdoor, rural",
+    "description": "The image shows a person crouching in the middle of a road with a double yellow line. The person is wearing a black t-shirt, beige pants, and white sneakers. The background features an open field with some trees and a dramatic sky with clouds, suggesting an outdoor, possibly rural setting. The photograph is credited to 'Lindsay Newton Photography,' as indicated by the text at the bottom of the image. The image is interesting due to its composition, the contrast between the person and the background, and the use of natural lighting.",
+    "category": "rural"
+  },
+  {
+    "image": "images/Outdoor/a551b374a84c13b7cf31e2aa26836a3e.jpg",
+    "filter": "sitting, rocky, coastal",
+    "description": "The image shows a person sitting on a rocky outcrop by the sea. The person is wearing a black t-shirt, black shorts, white socks, and white sneakers. The background features a large rock formation and the ocean, with a partly cloudy sky above. The person appears to be holding something near their face. The setting suggests a coastal or beach location, and the natural scenery is visually appealing. There are no math or homework problems visible in the image.",
+    "category": "coastal"
+  },
+  {
+    "image": "images/Outdoor/a5488f75b2c7e7f066a7ce30acba8e05.jpg",
+    "filter": "walking, urban, formal",
+    "description": "The image shows a person dressed in a formal suit walking on a wet street in an urban area. The person is wearing a dark suit with a white shirt and a striped tie. The background features a modern, multi-story building with curved architecture and numerous windows. There are cars and other pedestrians visible in the background, indicating a busy city environment. The street appears to be wet, suggesting recent rain. The image captures a moment of urban life, and the contrast between the formal attire of the person and the casual city setting makes it interesting. There are no math or homework problems in the image.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/abbbea51bdc9e1990a29220f12520848.jpg",
+    "filter": "walking, outdoor, casual, greenery",
+    "description": "The image shows a person walking on a paved pathway surrounded by greenery. The person is wearing a white t-shirt with a Batman logo, black pants, and white sneakers. The pathway is made of hexagonal tiles, and the background features trees and bushes. The person's face is blurred for privacy. This image is interesting as it captures a casual, everyday moment in a serene outdoor setting. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/accabf523157fefeab10bb843a60b51b.jpg",
+    "filter": "standing, outdoor, mountainous",
+    "description": "The image shows a person standing on a rocky surface with a mountainous background. The person is wearing a dark jacket, dark pants, and dark shoes. The individual is holding an object in one hand and appears to be looking down. The setting seems to be outdoors, possibly near a road or a path, as indicated by the metal guardrail in the background. The image is interesting due to the contrast between the person's dark clothing and the bright, overexposed sky, as well as the rugged terrain. There are no math or homework problems in the image.",
+    "category": "mountainous"
+  },
+  {
+    "image": "images/Outdoor/ae7de7314ee116d763206271f8085d7c.jpg",
+    "filter": "sitting, indoor, cafe",
+    "description": "The image shows a person sitting in a cafe or restaurant. The person is wearing a black jacket over a grey sweatshirt with the word \"GANT\" printed on it. The person is resting one arm on the back of the chair and the other arm on the table, which has a white cup on it. The background includes glass windows and some reflections, indicating an indoor setting with an outside view. The image is interesting because it captures a casual and relaxed moment in a stylish setting. There are no math or homework problems in the image.",
+    "category": "cafe"
+  },
+  {
+    "image": "images/Outdoor/aecc6f1b0d85ad050e677f5c460828cd.jpg",
+    "filter": "leaning, indoor, casual",
+    "description": "The image shows a person leaning against a black railing. The person is wearing a black t-shirt with some text on it and black pants. The background features a wooden door with glass panels and several wooden chairs. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/b3a44347599be7cbad243ea70bed890d.jpg",
+    "filter": "standing, outdoor, scenic",
+    "description": "The image shows a person standing on a narrow dirt path in a grassy, hilly area with arms outstretched, facing towards the ocean in the distance. The person is wearing a green hoodie with text and graphics on the back, black shorts, white socks, and white sneakers. The scene is set during what appears to be either sunrise or sunset, with the sky displaying a gradient of colors from blue to orange. The image is interesting due to the scenic view of the hills and ocean, and the sense of freedom and openness conveyed by the person's pose and the expansive landscape.",
+    "category": "scenic"
+  },
+  {
+    "image": "images/Outdoor/b9fd126efd8ce3a9682e88e52935ecc6.jpg",
+    "filter": "standing, urban",
+    "description": "The image shows a person standing in front of a black traffic light pole at an intersection. The person is wearing a dark maroon shirt and blue jeans, and is holding a bag in one hand. The background includes trees, a building, and a pedestrian signal displaying a hand symbol indicating \"don't walk.\" The scene appears to be in an urban area with brick-paved sidewalks and streets. There are no math or homework problems visible in the image.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/b808ab63105fcef13f7bf0d2ecb50820.jpg",
+    "filter": "leaning, outdoor, urban, classic",
+    "description": "The image shows a person leaning against a low wall with plants in front of a multi-story building. The person is wearing a dark t-shirt, khaki pants, and a wristwatch. The building in the background has a classic architectural style with large windows and balconies. The scene appears to be taken in an urban setting, possibly in a residential or office area. The image is interesting due to the contrast between the modern casual attire of the person and the classic architecture of the building.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/b940a879bbfeb1572ae25ccddfec9332.jpg",
+    "filter": "urban, fashionable, casual",
+    "description": "The image shows a person wearing a dark grey button-up shirt with the sleeves rolled up. The person is accessorized with a silver bracelet on the left wrist and a ring on the left hand. The background appears to be an urban setting with a building and a sidewalk visible. The image is framed with a glittery, circular border.",
+    "category": "fashionable"
+  },
+  {
+    "image": "images/Outdoor/b87193469923b90bb43a160974800fe4.jpg",
+    "filter": "leaning, outdoor, casual",
+    "description": "The image shows a person leaning against a tree in an outdoor setting. The person is wearing a denim jacket over a partially unbuttoned shirt and black pants. The background consists of trees and foliage, suggesting a forest or wooded area. The person appears to be posing for a photograph, with one hand on the chest and the other resting on the thigh. The image is interesting due to the casual and relaxed pose of the person, combined with the natural outdoor setting, which creates a contrast between the subject and the environment.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/bc3c77a19dc60195f9da2c17633b2cee.jpg",
+    "filter": "sitting, outdoor, casual",
+    "description": "The image shows a person sitting on a wooden platform in an outdoor setting. The person is wearing a white t-shirt, black pants, and white sneakers with blue and orange accents. The person is seated on a bench with a table in front of them, and there is another bench and table set nearby. The background includes a brick wall, some trees, and a structure with a metal roof. The person’s face is obscured. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/be62d10246af7bd2dd5c63c687f14d26.jpg",
+    "filter": "standing, indoor, casual",
+    "description": "The image shows a person standing against a two-toned wall, with the upper part of the wall being white and the lower part being light gray. The person is wearing a dark blue hoodie, a black shirt underneath, and brown pants. The person's face is obscured. The person is standing with hands clasped in front, and there is a shadow cast on the wall behind. There is no math or homework problem visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/bff383114426d9b830925aff7a7c40c6.jpg",
+    "filter": "leaning, indoor, formal, black and white",
+    "description": "The image shows a person leaning against a wall with a tiled pattern. The person is dressed in a suit with a white shirt and is wearing white shoes. The person has one hand in a pocket and the other hand holding an object. The background consists of large stone tiles and cylindrical columns, giving the setting a formal and architectural feel. The image is in black and white, which adds a classic and timeless quality to the scene.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Outdoor/c2d85621d7c206bd10f31e3cd0f31701.jpg",
+    "filter": "urban, formal, gesture",
+    "description": "The image shows a person standing in front of a black car, holding a bouquet of white flowers. The person is wearing a black leather jacket over a black sweater and a white shirt. The background includes a stone building and two other people walking by. The image is interesting because it captures a moment that appears to be in an urban setting, with the person holding flowers possibly indicating a special occasion or gesture.",
+    "category": "gesture"
+  },
+  {
+    "image": "images/Outdoor/c4bb9bde283bf30a01e61ab0a7f000cc.jpg",
+    "filter": "walking, snow, urban",
+    "description": "The image shows a person walking on a snowy street. The person is wearing a maroon sweater, black pants, and black boots. The background includes buildings and a snow-covered sidewalk. The image is interesting as it captures a winter fashion style and the urban environment. There are no math or homework problems in the image.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/c808d71eb74227c6ec47915cdb5bd842.jpg",
+    "filter": "running, outdoor, architectural",
+    "description": "The image shows a person in motion, possibly running or walking briskly, in an architectural setting that resembles a grand, historical building with columns and arches. The person is wearing a dark coat, a brown sweater, and dark pants. The background features a symmetrical, open courtyard with a cobblestone floor and a multi-story facade with large windows and decorative elements. The lighting suggests it might be either early morning or late afternoon, as there is a warm glow in the background. The image is interesting due to the dynamic pose of the person and the striking architectural details of the setting. There are no math or homework problems in the image.",
+    "category": "architectural"
+  },
+  {
+    "image": "images/Outdoor/c466049e2c8113b023bbff2962f9734e.jpg",
+    "filter": "leaning, indoor, casual, industrial",
+    "description": "The image shows a person standing in a modern, industrial-style interior. The person is wearing a white short-sleeve polo shirt and black trousers. The person is leaning against a concrete wall with one hand in a pocket and the other resting on a metal cart. The cart has a glass water dispenser on top and shelves with various items, including cups and napkins. There is a large window to the left, allowing natural light to enter the space. The setting appears to be a café or a similar establishment. There are no math or homework problems in the image.",
+    "category": "industrial"
+  },
+  {
+    "image": "images/Outdoor/c38388814c3038fa2c95880896badc50.jpg",
+    "filter": "standing, outdoor, casual",
+    "description": "The image shows a person standing in front of a blue windowed wall. The person is wearing a light gray sweatshirt with a cartoon bear graphic on it, gray cargo pants, black and white sneakers, a white cap worn backward, and a black backpack. The person has their hands on their hips and is looking to the side. There are green plants with yellowish leaves in front of the wall. The image is interesting because of the casual and coordinated outfit, the vibrant background, and the overall aesthetic appeal.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/cd35024a2267a29935122ea345e42202.jpg",
+    "filter": "sitting, indoor, casual, restaurant",
+    "description": "The image shows a person sitting on a high stool in what appears to be a restaurant or café. The person is wearing a dark green jacket, black pants, and light gray sneakers. The background includes a counter and stools, with a sign that partially reads 'GRILLED BURG' visible. The person has one hand resting on the counter and the other hand near the face. The setting and attire suggest a casual and relaxed atmosphere.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/cf238cd6c916a2572edd477866ad31d8.jpg",
+    "filter": "walking, urban, outdoor, stylish",
+    "description": "The image shows a person walking on a sidewalk in an urban environment. The person is wearing a white long-sleeve shirt, olive green pants, and brown shoes. The background includes trees and parked cars. The person is also wearing a watch on the left wrist. The image is interesting as it captures a casual yet stylish street fashion look. There are no math or homework problems in the image.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/cff6b14ee08961a9cbaa24b9e43bc1fd.jpg",
+    "filter": "leaning, outdoor, casual, park",
+    "description": "The image shows a person standing outdoors in a park-like setting. The person is leaning against a decorative lamp post, wearing a white shirt, blue jeans, and white sneakers. The background features lush green foliage, a well-maintained lawn, and a paved walkway with a pattern of red and gray tiles. The scene is bright and sunny, suggesting a pleasant day. This image is interesting because it captures a serene and relaxed moment in a natural environment. There are no math or homework problems present in the image.",
+    "category": "park"
+  },
+  {
+    "image": "images/Outdoor/d3b4f1e84995abaf73af00417bfbee71.jpg",
+    "filter": "sitting, outdoor, beach",
+    "description": "The image shows a person sitting on a grassy area near the beach. The person is wearing a dark shirt, black shorts, white socks, and white Nike sneakers. The person is holding something in their hands and looking towards the right side of the image. In the background, there is a volleyball net and the ocean is visible. The sky is clear and blue, indicating a sunny day. The scene is peaceful and suggests a relaxing time outdoors by the beach. There are no math or homework problems in the image.",
+    "category": "beach"
+  },
+  {
+    "image": "images/Outdoor/d5e76320e40974f4d2451f6b7ac6b8c3.jpg",
+    "filter": "sitting, indoor, formal, nighttime",
+    "description": "The image shows a person dressed in a black suit and white shirt, sitting at a table in a restaurant or bar. The person is holding a glass in one hand and a pink rose in the other. The background features large windows with a view of a cityscape at night, including illuminated buildings and a Ferris wheel. The setting appears to be a social or dining environment with other people seated at tables. There are no math or homework problems in the image.",
+    "category": "nighttime"
+  },
+  {
+    "image": "images/Outdoor/d8bd67803f0a9ca41e2aa0eb09b11b7f.jpg",
+    "filter": "sitting, outdoor, casual",
+    "description": "The image shows a person sitting on outdoor steps in a casual pose. The person is wearing light blue jeans, a light blue denim jacket over a white shirt, and blue and white Nike sneakers. The background includes outdoor furniture and a glass building facade. The person's face is blurred. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/d45cf17836bc2e2e9e61926f440b3fcc.jpg",
+    "filter": "standing, indoor, formal, elegant",
+    "description": "The image shows a person dressed in a black suit with a white shirt and black tie, standing in an elegant, ornate interior. The person is leaning against a wooden railing with glass balusters. The background features grand architectural elements, including marble columns, chandeliers, and intricate moldings, suggesting a luxurious setting, possibly a hotel or a historic building. The person is wearing a gold wristwatch and has one hand in the pocket of the suit pants. The setting and attire indicate a formal or special occasion.",
+    "category": "elegant"
+  },
+  {
+    "image": "images/Outdoor/d086f5e7fe6b2a2d28e638d8d576d3b5.jpg",
+    "filter": "standing, outdoor, formal, elegant",
+    "description": "The image shows a person dressed in a black suit with a white shirt, standing in front of a silver Mercedes-Benz E250 car. The person is holding a red rose in one hand and has the other hand in the pocket. The car's license plate reads 'UP16AU0830.' The background includes a white building with multiple windows and balconies. There are also other cars visible in the background. The person is wearing white sneakers, which contrasts with the formal attire, making the image interesting. There are no math or homework problems in the image.",
+    "category": "elegant"
+  },
+  {
+    "image": "images/Outdoor/d4501ab9f0955be0c3a1836516e40581.jpg",
+    "filter": "sitting, outdoor, urban",
+    "description": "The image shows a person sitting on a metal bench in an outdoor setting. The person is wearing a light gray sweater, black pants, and black boots. The background includes a large glass window reflecting architectural structures and a person standing. The setting appears to be an urban environment, possibly a train station or a similar public space. The person is resting their head on their hand, with their elbow on their knee. There are no math or homework problems in the image.",
+    "category": "urban"
+  },
+  {
+    "image": "images/Outdoor/de5b7fecdf15b7210761a6b4276ca075.jpg",
+    "filter": "standing, nighttime, urban, commercial",
+    "description": "The image shows a person standing outdoors at night in front of a building with several parked cars. The person is wearing a white dress shirt, black tie, and black pants. There is a keychain with several keys and small items attached to the person's belt loop. The background includes a restaurant with a sign in Arabic script and another sign that reads 'TASTE THE SMOKE.' The scene appears to be in a commercial area with various businesses and illuminated signs.",
+    "category": "commercial"
+  },
+  {
+    "image": "images/Outdoor/df175d1aea609d1f4d46068ecc7da9e8.jpg",
+    "filter": "standing, outdoor, formal, urban, snowy",
+    "description": "The image shows a person dressed in formal attire, including a dark suit, white shirt, and a red tie, standing outdoors in a snowy urban setting. The person is holding a brown briefcase in the left hand and wearing a striped scarf. In the background, there is a large bridge structure, likely the Manhattan Bridge, and surrounding buildings, indicating the scene is set in a city. Snow is visibly falling, adding a wintery atmosphere to the image. The combination of the formal attire and the urban, snowy setting creates a striking and visually appealing contrast. There are no math or homework problems in the image.",
+    "category": "snowy"
+  },
+  {
+    "image": "images/Outdoor/e0b7c72556813ef155f310d12b022849.jpg",
+    "filter": "standing, outdoor, casual, nature",
+    "description": "The image shows a person standing on a paved pathway lined with green hedges and trees. The person is wearing a striped shirt with the sleeves rolled up, beige cargo pants, and white sneakers with red accents. The background features lush greenery and palm trees, suggesting an outdoor setting, possibly a park or garden. The person's face is obscured for privacy. This image is interesting as it captures a casual fashion style in a natural, serene environment. There are no math or homework problems in the image.",
+    "category": "nature"
+  },
+  {
+    "image": "images/Outdoor/e5d988df486ad1877d655319d89ee5c0.jpg",
+    "filter": "standing, outdoor, urban, casual",
+    "description": "The image shows a person standing on a paved area next to a road, with one foot slightly raised. The person is wearing a green hoodie, dark pants, white socks, and white sneakers. The background features a grassy area with trees and a tall building. The scene appears to be in an urban park or a similar setting. There are no math or homework problems visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/e73370a7fd094fc8f1939592e88cc312.jpg",
+    "filter": "sitting, outdoor, scenic",
+    "description": "The image shows a person sitting on a rocky ledge with a vast landscape in the background. The person is wearing a green long-sleeve shirt, black pants, and black boots. The background features a scenic view of mountains, a coastline, and a partly cloudy sky. The image is interesting because it captures a moment of relaxation and contemplation in a beautiful natural setting, highlighting the contrast between the rugged terrain and the serene sky. There are no math or homework problems in the image.",
+    "category": "scenic"
+  },
+  {
+    "image": "images/Outdoor/eb0e3daca0e147590d465e5f923238d2.jpg",
+    "filter": "posing, outdoor, casual",
+    "description": "The image shows a person with a blurred face, wearing a black shirt and a wristwatch with a brown strap. The person is posing with one hand near the face, and the background appears to be an outdoor setting with some structures and windows. The wristwatch is prominently visible, suggesting it might be a focal point of interest in the image. There is no text or math problem present in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/f1a14145bdcf984b4c61300ad93e417a.jpg",
+    "filter": "urban, stylish, nighttime",
+    "description": "The image shows two individuals posing in a nighttime setting. One person is crouching down, wearing a black outfit with white sneakers and white-framed sunglasses. The other person is standing behind, wearing a dark jacket over a hoodie and jeans, adjusting the hood. The setting appears to be an outdoor area, possibly a parking lot, with a metal railing and a brick wall in the background. The image is interesting due to the casual and stylish poses of the individuals, as well as the urban nighttime environment. There are no math or homework problems in the image.",
+    "category": "nighttime"
+  },
+  {
+    "image": "images/Outdoor/f6d7741f1141866eb91ab1011ea226eb.jpg",
+    "filter": "standing, indoor, casual",
+    "description": "The image shows a person wearing a light-colored, partially unbuttoned shirt. The person's face is blurred out. The background appears to be a wall with some shadows and foliage. The person is standing with hands behind the back, and the lighting creates a dramatic effect with shadows on the shirt and background. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/f26ad341898f31c7715f2599921063c0.jpg",
+    "filter": "standing, indoor, black and white, casual",
+    "description": "The image shows a person standing against a wall, with one leg raised and resting on a cylindrical object. The person is wearing a dark hoodie with a graphic design on the front, light-colored pants, and white sneakers. The background includes a large vertical metal column and a section of a wall with horizontal lines. The image is in black and white. There are no math or homework problems present in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/f615b172db5f1be2c335e215abbb1964.jpg",
+    "filter": "standing, indoor, casual",
+    "description": "The image shows a person standing indoors on a shiny, white, marble-like floor. The person is wearing a beige short-sleeved, ribbed polo shirt, black pants, and white sneakers. The person is holding a pair of sunglasses in one hand and has a smartwatch on the wrist. The background includes a white wall with a light switch and a door. There is no math or homework problem visible in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/f9556e6289f6d47d0f08c7e9d2eced44.jpg",
+    "filter": "standing, outdoor, vibrant",
+    "description": "The image shows a person standing in front of a rusted metal gate with greenery in the background. The person is wearing a red shirt with the text 'HRX.13' printed on it and a wristwatch. The face of the person is blurred. The image is interesting due to the contrast between the vibrant red shirt and the rustic, natural background, creating a visually appealing composition. There are no math or homework problems in the image.",
+    "category": "vibrant"
+  },
+  {
+    "image": "images/Outdoor/fc9f9e21eecc8696355bdc5697e774c0.jpg",
+    "filter": "sitting, indoor, casual",
+    "description": "The image shows a person sitting on a chair, wearing a blue shirt over a white tank top, light blue jeans, and white shoes. The person is also wearing a silver wristwatch and a necklace with a circular pendant. The background appears to be indoors with a blurred setting, possibly a living room or a lounge area. The image is interesting as it captures a casual and relaxed fashion style. There are no math or homework problems in the image.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Outdoor/fc67fb4ba4c63f0c847d2831644f6e0f.jpg",
+    "filter": "standing, outdoor, stylish",
+    "description": "The image shows a person standing on a set of stone steps in an outdoor setting. The person is dressed in a black blazer, a white shirt, white pants, and black loafers. The individual is posing with one leg raised and resting on a step, and one hand is adjusting the blazer while the other hand is by the side. The background consists of white walls with windows and a door, giving the scene a clean and minimalist look. This image is interesting because it showcases a stylish and sophisticated outfit in a picturesque and urban environment.",
+    "category": "stylish"
+  },
+  {
+    "image": "images/Outdoor/fd9dc72a0a74137ec15b026b78ab741f.jpg",
+    "filter": "sitting, outdoor, motorcycle",
+    "description": "The image shows a person sitting on a Royal Enfield motorcycle. The person is wearing a dark jacket, a black t-shirt, and light-colored jeans. The person's face is blurred. The person is resting one hand on the chin and the other hand on the knee. The background appears to be outdoors with some foliage visible. The image is interesting because it captures a casual and relaxed pose with a popular motorcycle brand, Royal Enfield, which is known for its classic and vintage style.",
+    "category": "motorcycle"
+  },
+  {
+    "image": "images/Formal_pose/0d8e9600d3798ba793a8db2c054bec15.jpg",
+    "filter": "walking, formal, urban",
+    "description": "This outdoor pose captures a natural, everyday moment in an urban setting. Walk across the street with a confident stride, and keep your gaze straight ahead for a candid and dynamic look.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Formal_pose/1c2f9f7a1b45c14d0c927b451192a5ea.jpg",
+    "filter": "leaning, stylish",
+    "description": "This formal pose is perfect for showcasing a sophisticated and stylish look. Lean against a stone column with one hand in your pocket and the other holding an accessory, such as sunglasses. Make sure to angle your body slightly and maintain a relaxed yet confident posture for a polished appearance.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/1d9095f4988a1915b73df02452060e3c.jpg",
+    "filter": "standing, formal",
+    "description": "This formal pose emphasizes a professional and refined look. Stand with one hand in your pocket and the other hand slightly raised. Ensure your posture is upright and confident, with a neutral background to keep the focus on your attire.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/1e159efbd20e7592a7f9b062b6bd8ee0.jpg",
+    "filter": "standing, urban",
+    "description": "This outdoor pose showcases a stylish and modern look. Stand casually on the street with your hands in your pockets and your gaze straight ahead. The background elements like streetlights, trees, and buildings enhance the urban vibe. Keep your posture relaxed yet confident to capture a natural and engaging shot.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Formal_pose/1eae2e447df3987d9882b19038bb85df.jpg",
+    "filter": "walking, urban",
+    "description": "This casual pose is perfect for relaxed and informal photoshoots. Walk confidently on the sidewalk, holding your sunglasses in one hand. Keep your gaze straight ahead and maintain a stylish and natural look, with the urban backdrop enhancing the overall vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/1f57398e27d8c9426cdaf85d6a37dcf0.jpg",
+    "filter": "standing, formal, urban",
+    "description": "This formal pose showcases a fashionable and sophisticated look. Stand confidently with your hands at your sides or with one hand on your hip. The urban background adds a modern touch, making this pose suitable for formal or semi-formal occasions.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/2cd39335f9c11570c5916e4dae51faa2.jpg",
+    "filter": "standing, formal, urban",
+    "description": "This stylish pose exudes confidence and sophistication. Stand on a balcony or terrace with your hands relaxed at your sides, showcasing your outfit against a modern urban backdrop. Keep your posture upright and your expression composed to capture a professional and polished look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/3d05552c8b16ca70dd32b7fe8311b3f6.jpg",
+    "filter": "standing, formal",
+    "description": "This formal pose highlights a well-tailored and stylish look. Stand confidently in a black suit with a white dress shirt, and ensure your posture is upright. Use a pocket square and wristwatch to add a touch of sophistication. The urban background enhances the modern and professional vibe of the photo.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/5b7e0e0380b7cd50f8d2267398ea1e7c.jpg",
+    "filter": "leaning, formal",
+    "description": "This formal pose exudes confidence and professionalism. Lean against a wooden counter while holding a phone to your ear, and rest your other hand on the counter. Ensure your posture is relaxed yet poised, with a modern, upscale interior as the backdrop to enhance the sophisticated look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/5daaff031a8e84b6c6393a275f8f59a2.jpg",
+    "filter": "sitting, formal",
+    "description": "This formal pose emphasizes a sophisticated and well-coordinated outfit. Sit casually on a ledge or bench with your back straight and legs slightly apart. Ensure your posture exudes confidence, with your hands relaxed on your lap or holding an accessory like a briefcase. The urban setting and modern architecture enhance the stylish look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/6ffec2ad6d7ddbbf430b16b67c14d37d.jpg",
+    "filter": "sitting, casual",
+    "description": "This casual pose is perfect for a laid-back and effortless look. Sit on outdoor steps with your back straight and one leg slightly bent. Roll up your sleeves for a relaxed vibe, and let your hands rest naturally on your lap or beside you. The background with glass doors and windows adds a modern touch to the scene.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/7a49a1b77228c6a23da809106e7a7250.jpg",
+    "filter": "standing, stylish",
+    "description": "This stylish pose is perfect for capturing a trendy and modern look. Stand confidently in front of a modern building with your hands relaxed at your sides. The outfit, consisting of a light pink button-up shirt over a white t-shirt, black skinny jeans, and black leather boots, is well-coordinated. Accessorize with a necklace and watch for added flair. Ensure your posture is upright and your expression composed for a polished appearance.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/7bf34e63808f273490f54b7baf4cadcb.jpg",
+    "filter": "standing, adjusting, formal",
+    "description": "This formal pose showcases a sophisticated and elegant look. Stand confidently on steps, adjusting your suit jacket. Ensure your posture is upright and poised, with one hand adjusting the jacket and the other relaxed at your side. The intricate white railing and partially open door in the background add a touch of classic elegance to the scene.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/7c9c4a72555fac45d2782b7824ad8b4f.jpg",
+    "filter": "leaning, stylish",
+    "description": "This stylish pose is ideal for showcasing a casual yet sophisticated look in an urban setting. Lean against a pole on the city street, ensuring your posture is relaxed and confident. The outfit, consisting of a dark blazer, light gray t-shirt, dark trousers, and white sneakers, is accessorized with a pocket square and a watch. This pose and setting enhance the overall fashionable and urban vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/7d9cec9ff1cf31caa1bc5d62db716df4.jpg",
+    "filter": "walking, stylish",
+    "description": "This casual pose showcases a fashionable and trendy look. Walk confidently on the paved surface with your gaze straight ahead. The outfit, consisting of a light blue denim jacket, white turtleneck sweater, beige cargo pants, and white sneakers, is well-coordinated. The modern, industrial-style wall in the background enhances the urban vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/7e3e1a1e88b0aa0d1f788fae88f7ff82.jpg",
+    "filter": "standing, stylish",
+    "description": "This stylish pose captures a fashionable and relaxed look. Stand confidently on a dock with boats and a mountainous landscape in the background. Wear a brown leather jacket, a white t-shirt, beige pants, and white sneakers. Hold a pair of sunglasses in one hand, and maintain a natural, casual stance to enhance the outdoor, scenic vibe.",
+    "category": "outdoor"
+  },{
+    "image": "images/Formal_pose/7ea3cf28ec16eaf7bf8e2afc3d3c664b.jpg",
+    "filter": "sitting, stylish, formal, Bike",
+    "description": "This stylish pose combines formal attire with a rugged motorcycle for a dynamic and adventurous look. Sit confidently on the motorcycle with your hands on the handlebars. Wear a brown suit with a dark shirt and black shoes, and maintain a relaxed yet composed posture. The greenery in the background enhances the contrast between sophistication and the outdoors.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Formal_pose/7f2046d0a49a73abfc8ec13ee97a1337.jpg",
+    "filter": "walking, casual",
+    "description": "This casual pose captures a relaxed and modern street style. Walk down a classic urban street, wearing a white hoodie, black jacket, gray pants, and white sneakers. Keep your gaze forward and maintain a natural stride to enhance the laid-back vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/08dc7261045de9976386e73c320acdd6.jpg",
+    "filter": "walking, urban",
+    "description": "This formal pose features a person in a dark suit walking confidently on a sidewalk next to a street. The background includes a building covered in green ivy and multiple cars parked along the street. The lush greenery contrasts nicely with the formal attire, creating a visually appealing urban scene. Maintain an upright posture and a determined stride for a professional and dynamic look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/8c851af8854c207b21800e743438b973.jpg",
+    "filter": "standing, stylish",
+    "description": "This casual yet sophisticated pose highlights a well-coordinated outfit. Stand confidently with your hands relaxed at your sides or in your pockets. The outfit consists of a brown jacket, a cream-colored turtleneck sweater, beige pants, white socks, and white sneakers. The neutral-colored environment complements the overall stylish look, making it suitable for various occasions.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/8d0ccf0e8406d82b0aefd4e3041a2601.jpg",
+    "filter": "leaning, urban, outdoor",
+    "description": "This casual pose captures a stylish and relaxed look. Lean against a glass window of a building, with one hand in your pocket and the other resting on the side. The outfit consists of a white button-down shirt, black pants, and white sneakers. The large green plant visible through the glass adds a touch of nature to the urban setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/23a3fafeb9102db19b58ad709b831c7b.jpg",
+    "filter": "standing, formal",
+    "description": "This formal pose highlights a sophisticated and elegant look. Stand confidently in a beige suit with a black shirt underneath, one hand holding a small object and the other hand in your pocket. Position yourself in front of a large, elegant building with well-maintained greenery in the background. Maintain an upright posture and composed expression for a polished and refined appearance.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/24c32b677aa8ce741d1c519eccdc9fc9.jpg",
+    "filter": "leaning, casual",
+    "description": "This casual pose captures a stylish yet relaxed look. Lean against a handrail with one hand in your pocket and the other hand raised. Wear a brown long-sleeve shirt, black pants, and brown shoes. The brick wall and stairs in the background add a rustic charm to the scene. Maintain a confident posture to enhance the overall appeal.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/26d06bcbcba63271dc71bd7bc11075b4.jpg",
+    "filter": "standing, casual",
+    "description": "This casual yet stylish pose features. Put your One hand in the jacket pocket while the other hand is raised near the face, adding a thoughtful touch to the pose. The overall look is relaxed and fashionable, making it great for everyday wear or casual outings.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/33aa914cd0c30b550195afbbd4a9697e.jpg",
+    "filter": "leaning, casual",
+    "description": "This casual pose showcases a stylish and relaxed look. Lean against a marble column with one hand in your pocket and the other holding a pair of sunglasses. Wear a black button-up shirt with rolled-up sleeves, beige cropped trousers, and black loafers. The indoor setting with a glass door and lights in the background adds a touch of sophistication to the scene. Maintain a confident posture to enhance the overall appeal.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/34e38f88c6e20fbf4851d8bf4f879317.jpg",
+    "filter": "standing, formal",
+    "description": "This formal pose exudes sophistication and elegance. Stand confidently with a white dress shirt tucked into black trousers, and drape a white jacket over one shoulder. Complete the look with black loafers and a wristwatch. The stone railing and architectural background enhance the urban, professional vibe. Maintain a poised posture for a polished appearance.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/52b4344dc5dfa47a8d1e11501a292f73.jpg",
+    "filter": "leaning, formal",
+    "description": "This formal pose captures a stylish and sophisticated look. Lean confidently against a decorative stone railing, with a white dress shirt tucked into black trousers. Drape a white jacket over one shoulder for an added touch of elegance. Hold an accessory, such as sunglasses, near your face to enhance the chic vibe. The urban background with large windows adds a professional setting to the scene.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/56c109f57b474a58f1d837ad0266177f.jpg",
+    "filter": "adjusting, stylish",
+    "description": "This stylish pose combines classic British elements with modern fashion. Stand confidently in front of a red British telephone booth, adjusting your dark suit jacket. Wear black loafers without socks to add a contemporary touch. The city street backdrop, with buildings, a parked van, and a storefront, enhances the overall urban vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/59d4fe35920321aff5de0860b90f7df9.jpg",
+    "filter": "leaning, casual",
+    "description": "This stylish pose captures a relaxed and fashionable look. Lean against a metal railing with one hand in your pocket and the other resting on the railing. Wear a black button-up shirt, beige pants, and black loafers. The marina setting with boats in the background adds a nautical touch to the scene.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/66ec1295e3d16fed7454549e09994538.jpg",
+    "filter": "standing, stylish,formal",
+    "description": "This stylish pose features two men dressed similarly in beige pants and loafers. One is wearing a white dress shirt with rolled-up sleeves, and the other is wearing a black dress shirt with rolled-up sleeves. Both men have their hands in their pockets and are wearing wristwatches. The background settings are an outdoor urban environment and an indoor space with columns and glass windows, respectively. Maintain a confident posture to enhance the stylish look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/68b1a36ae1631a87c11aae8b659e8daa.jpg",
+    "filter": "sitting, stylish, casual",
+    "description": "This stylish pose captures a casual yet fashionable moment. Sit on a stone railing with a leash in your hand, attached to a small, fluffy dog beside you. Wear a brown suede jacket, a beige turtleneck sweater, white pants, and brown sneakers. The green foliage in the background enhances the outdoor setting, adding a touch of nature to the scene. Maintain a relaxed posture to convey a sense of ease and style.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/68d8e96945f5cb35c8ba15cb3d186639.jpg",
+    "filter": "standing, formal",
+    "description": "This formal pose highlights a sophisticated and stylish look. Stand confidently on the street, wearing a dark brown suit with a white dress shirt and a black tie with white polka dots. Adjust the cuffs of your shirt for a polished appearance. Accessorize with a silver wristwatch and a ring on the right hand. The building with large windows in the background adds an urban, professional vibe.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/90e4aa1f2a6622dce00201c6588ae1d2.jpg",
+    "filter": "leaning, casual",
+    "description": "This casual pose captures a stylish and relaxed look. Lean against a white column next to a dark wooden door. The outfit consists of a navy blazer, a blue and white striped shirt, white trousers, and brown shoes. Hold a pair of sunglasses in one hand and place the other hand in your pocket. The reflection of a building in the glass of the door adds an interesting urban touch to the scene.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/095b11e60a6de5cab2cd4de09bfad096.jpg",
+    "filter": "sitting, casual",
+    "description": "This casual pose is perfect for relaxed and informal photoshoots. Sit comfortably on a stool, keep your back straight and your hands relaxed on your knees or in your lap. Smile naturally and let your outfit's style shine through.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/157d93aa92c0ecf9972c26236a580157.jpg",
+    "filter": "standing, urban,formal",
+    "description": "This urban pose captures a candid moment in the city. Stand on a street with one hand in your pocket and the other hand raised to your head. The backdrop of tall buildings and blurred figures adds to the dynamic, city vibe. Keep your expression natural for an effortless, stylish look.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Formal_pose/488aee4ab2d2dbcc186ecf5c60f49a76.jpg",
+    "filter": "standing, urban, candid, formal",
+    "description": "This urban pose captures a candid moment in the city. Stand casually while looking at your phone, and let the city life around you add to the ambiance. The background buildings and people create a dynamic, natural look. Keep your expression relaxed and natural.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Formal_pose/501cf43ed517506712958fe48f7f4a29.jpg",
+    "filter": "standing, casual",
+    "description": "This casual outdoor pose exudes confidence and ease. Stand with your body slightly turned to one side, one hand in your pocket, and the other arm relaxed by your side. The concrete pillar and blurred background create a modern, urban vibe. Keep your expression neutral for a natural look.",
+    "category": "outdoor"
+  },
+  {
+    "image": "images/Formal_pose/514e89dd75a6e4bb42b154283e44204e.jpg",
+    "filter": "sitting, stylish",
+    "description": "This stylish pose is perfect for a modern and fashionable look. Sit on a cube or low seat, keep your back straight, and rest your hands casually on your lap or knees. The dark blue coat and well-coordinated outfit create a sophisticated vibe. Maintain a neutral expression for an effortlessly chic appearance.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/567d486414459da2ab61fa2e06c56d0f.jpg",
+    "filter": "leaning, urban, stylish",
+    "description": "This stylish urban pose is ideal for a sleek and modern look. Lean against a concrete wall with one hand in your pocket and the other hand hanging by your side. The coordinated outfit, including the brown suede jacket, turtleneck sweater, and leather Chelsea boots, creates a sophisticated and fashionable vibe. Maintain a neutral expression for a natural look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/661a65a0cf2ea5c4d3d271f479ac3ef0.jpg",
+    "filter": "walking, casual, winter",
+    "description": "This stylish winter pose is perfect for a fashionable and casual look. Walk casually on a cobblestone path, with a dark textured wall as your backdrop. Wear a beige sherpa jacket with a white collar, a white knit sweater, light blue jeans, and white sneakers. Keep your posture relaxed and natural, letting the winter outfit take center stage.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/692e185ebdee7d472a3e86c47059cb20.jpg",
+    "filter": "standing, casual, urban",
+    "description": "This casual urban pose is ideal for a laid-back and stylish look. Stand on the street with one hand in your pocket and the other hand resting on your stomach. The background of the white building with balconies and greenery adds a relaxed city vibe. Keep your expression natural and effortless.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/795f4a22a8cdc7280b9e26f31093dcb2.jpg",
+    "filter": "standing, stylish, edgy",
+    "description": "This edgy and stylish pose is perfect for a bold look. Stand with one foot slightly forward and lean against a brick wall with your shoulder. Wear a fitted leather jacket, dark jeans, and boots to complete the look. Keep your arms crossed and your expression confident for an intense, urban vibe.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/865d53074da47db028535d2384605a67.jpg",
+    "filter": "standing, formal, elegant",
+    "description": "This elegant formal pose is perfect for showcasing a refined look. Stand straight with your body slightly turned to one side and your hands relaxed at your sides or one hand in your pocket. The background of the gray paneled door adds a touch of sophistication. Keep your expression calm and confident to highlight the formal attire.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/3958c78bdd1d9b0e0f631f4161345b64.jpg",
+    "filter": "sitting, formal, elegant",
+    "description": "This elegant and formal pose is perfect for showcasing sophistication. Sit on a stone bench with your back straight and one leg crossed over the other. Rest your hands casually on your lap or hold a leather bag beside you. The background of a stone building adds a refined ambiance. Maintain a composed and confident expression.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/7144d1d034e94c10ae80456bdb0be967.jpg",
+    "filter": "standing, casual, urban",
+    "description": "This casual pose is perfect for an urban outdoor setting. Stand with your body slightly turned to one side, hands relaxed by your sides or in your pockets. The background of large, textured columns and wooden benches adds an interesting and dynamic element. Maintain a confident, yet relaxed expression for a natural look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/8071fe5ccb8876544325ef6215d53df2.jpg",
+    "filter": "standing, casual, stylish",
+    "description": "This casual and stylish pose is perfect for an outdoor setting. Stand with your body facing forward, one hand in your pocket, and the other hand relaxed by your side. The backdrop of a cafe or casual dining area with greenery creates a relaxed and chic atmosphere. Keep your expression natural and confident for a laid-back look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/9186de209479145c702fa4095626b093.jpg",
+    "filter": "standing, stylish, modern, formal",
+    "description": "This modern and stylish pose is ideal for a sleek look. Stand against a light-colored, tiled wall with your hands relaxed by your sides. The black leather jacket and white pants create a striking contrast that adds to the overall appeal. Maintain a confident and natural expression for a polished appearance.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/9580e93202f6beddf2ba5d53d392a57c.jpg",
+    "filter": "standing, stylish, thoughtful, formal",
+    "description": "This stylish and thoughtful pose is perfect for a classic, sophisticated look. Stand on a stone bridge, lean against the railing with one hand in your pocket, and the other hand touching your chin. The classical architectural building in the background adds a touch of elegance. Keep your expression contemplative for an intellectual vibe.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/17064a4cb810092180023970e2775c25.jpg",
+    "filter": "leaning, stylish, outdoor",
+    "description": "This stylish outdoor pose is perfect for a relaxed yet fashionable look. Lean against a wooden fence with one foot crossed over the other. Wear a green blazer over a black shirt, black cropped trousers, and black dress shoes. Keep your expression neutral and natural, letting the stylish outfit stand out against the backdrop of a building with an orange awning.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/19368d98d90f8fcc088dad6abaf05fcd.jpg",
+    "filter": "standing, stylish, casual",
+    "description": "This stylish casual pose is perfect for a fashionable and relaxed look. Stand with your hands in your pockets, showcasing the light brown sweater over a blue patterned shirt, paired with dark blue trousers and brown leather shoes. The blurred urban background and greenery create a sophisticated yet casual vibe. Keep your expression natural and confident.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/68483b717c97e36f03dbe8442b6a1373.jpg",
+    "filter": "leaning, casual, outdoor",
+    "description": "This casual outdoor pose is perfect for a relaxed, urban look. Lean against a low wall, keeping one hand in your pocket and the other hand relaxed by your side. Wear a black polo shirt, brown pants, and black shoes for a stylish yet casual ensemble. Let the greenery and modern architecture in the background enhance the natural vibe of the shot.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/0319563ce2b330c746627df017a27ead.jpg",
+    "filter": "standing, stylish, modern, formal",
+    "description": "This stylish and modern pose is perfect for a contemporary take on formal wear. Stand on a wooden crate with one leg slightly bent, keeping your hands relaxed by your sides. The dark blue suit with a white pocket square and cropped pants adds a chic and fashionable touch. Maintain a confident expression to highlight the sophisticated look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/37421344f1eaee095589a9066e751196.jpg",
+    "filter": "standing, formal, elegant",
+    "description": "This formal and elegant pose is perfect for showcasing a classic, refined look. Stand straight with your body facing forward, hands relaxed by your sides, and your posture confident. The sleek all-black outfit consisting of a black suit jacket, black trousers, and black dress shoes creates a sophisticated appearance. Maintain a neutral expression to highlight the timeless style.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/624039577d3b932cfb5b5e686bc9bb77.jpg",
+    "filter": "standing, formal, autumn",
+    "description": "This formal autumn pose is perfect for a sophisticated urban look. Stand straight on the pavement next to a tram track, dressed in a sleek black suit with a black shirt and shiny black shoes. Let the fallen leaves and bare trees in the background add a seasonal touch. Keep your expression calm and confident to highlight the formal attire.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/51360109427f20965c909f9c96d71666.jpg",
+    "filter": "leaning, casual, urban",
+    "description": "This casual urban pose is perfect for a relaxed yet stylish look. Lean against the railing of a staircase with one hand resting on it and the other hand hanging by your side. Wear a light-colored jacket, white t-shirt, light blue jeans, and white sneakers for a laid-back ensemble. Maintain a neutral and natural expression to complete the effortless street style.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/a3c0679a491f90237d2f4de683fe6d86.jpg",
+    "filter": "walking, stylish, casual",
+    "description": "This stylish casual pose is perfect for an urban setting. Walk casually down a paved street with one hand holding a folded newspaper and the other hand in your pocket. Wear a light-colored, vertically striped button-up shirt with the sleeves rolled up, light gray trousers, and white sneakers with black and gold accents. Let the architectural background add to the city's dynamic vibe while keeping your expression natural and relaxed.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/a8e7c6e8aca9ea09d7043c52cb768529.jpg",
+    "filter": "sitting, casual, urban",
+    "description": "This casual urban pose is perfect for a relaxed, stylish look. Sit on a set of stairs with your back straight and one hand resting on your knee. Wear a light brown jacket over a dark shirt, blue jeans, and black lace-up boots. The metal beams and lights in the background create a modern, urban vibe. Keep your expression neutral and confident for an effortless appearance.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/a56e236bedac56a1a8d4f31a17a7a207.jpg",
+    "filter": "standing, stylish, urban",
+    "description": "Stand with one leg slightly bent, leaning against a wall. Keep one hand in your pocket and the other hand resting casually by your side. The background of the brick wall and reflective glass surface adds a modern, urban vibe. Maintain a confident and natural expression for an effortless, stylish appearance.",
+    "styling_tip": "The black t-shirt and beige pants create a nice contrast, while the black loafers with tassels add a touch of sophistication to the overall look. Let the outfit shine by keeping your accessories minimal.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/a649dbff45af086cc401a421de3ca426.jpg",
+    "filter": "walking, stylish, formal",
+    "description": "This stylish and formal pose is perfect for an urban setting. Walk casually on the cobblestone street, dressed in a well-fitted black suit with a white dress shirt, black dress shoes, and a white pocket square. Hold a pair of sunglasses in one hand and adjust your suit jacket with the other hand. The background of buildings with large windows and stone facades adds an urban vibe. Maintain a confident and professional expression.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/a96022162b857903ed39cf0b01ee2e9a (1).jpg",
+    "filter": "walking, stylish, casual",
+    "description": "This stylish and casual pose is perfect for an urban setting. Walk outdoors in front of a modern building with large glass doors. Wear a light brown button-up shirt over a white t-shirt, black skinny jeans, and black leather boots. Accessories such as a watch, bracelet, and necklace add a trendy touch. Maintain a natural and confident expression for an effortlessly cool look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/ab5d235c320f00d8473b822aaf1f10e4.jpg",
+    "filter": "standing, stylish, urban",
+    "description": "Stand outdoors, dressed in a light brown suede jacket with large front pockets, a white shirt, and light-colored pants. Hold a white disposable coffee cup in one hand and keep the other hand in your pocket. The background includes a stone building and a staircase railing. Maintain a natural and relaxed expression for an effortlessly stylish look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/b4a0f72d81c34cedba338b653d0adf0e.jpg",
+    "filter": "standing, stylish, indoor",
+    "description": "Stand with one hand in your pocket and the other hand by your side. Wear a stylish, dark-colored suit with a black shirt underneath and black loafers with tassels. The background features a marble wall with a geometric pattern and a potted plant on a round table, creating a modern and upscale environment. Maintain a confident and natural expression for a sophisticated look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/b8b51bf50673a172e958378092a1aa05.jpg",
+    "filter": "standing, formal, classic",
+    "description": "Stand in a formal black suit with a white dress shirt and a black bow tie. Pose against a windowed wall, with one arm slightly bent and the other hand adjusting the cuff of the shirt. The black and white filter adds a classic and elegant feel to the image. Maintain a composed and confident expression for a timeless look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/b12f2affe99b7b5a0fe6519bb45596df.jpg",
+    "filter": "leaning, stylish, urban",
+    "description": "This stylish and urban pose is perfect for a sophisticated street style look. Lean against a stone wall with large columns in the background. Wear a white jacket, beige sweater, black ripped jeans, and black high-top Converse sneakers to complete the outfit. Maintain a confident and relaxed expression to highlight the fashionable ensemble.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/b52de536cb988f7356fa8f63d11f2d9f.jpg",
+    "filter": "sitting, casual, outdoor",
+    "description": "Sit on a wooden bench in an outdoor setting with trees and foliage in the background. Wear a green quilted jacket, white sweater, blue jeans, and white sneakers for a comfortable and stylish look. Let the sunlight filtering through the trees create a warm and serene atmosphere. Keep your expression relaxed and natural for an effortless appearance.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/b1943ad75312d75da73acc6f08b84f60.jpg",
+    "filter": "walking, stylish, formal",
+    "description": "This stylish and formal pose is perfect for an outdoor setting. Walk confidently on the street, wearing a dark-colored suit with a double-breasted blazer featuring gold buttons and cropped trousers. Pair the outfit with dark loafers. Maintain a confident and composed expression to highlight the fashionable look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/b8958baf0a3eaa5b51f3073c429084b8.jpg",
+    "filter": "sitting, formal, elegant",
+    "description": "This elegant and formal pose is perfect for showcasing sophistication. Sit in an armchair, adjusting a bow tie. Wear formal attire, including a suit and a white dress shirt. The black-and-white filter adds a classic touch. Maintain a composed and confident expression for an elegant appearance.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/bb7bfd830b22b2f2a76cdfa9e94998e7.jpg",
+    "filter": "standing, stylish, indoor",
+    "description": "Stand indoors near a window with curtains. Wear a light blue, striped, button-down shirt with the sleeves rolled up, dark blue pants, and beige loafers with tassels. Hold a glass of water in one hand and showcase your tattoo on your forearm. The blurred background of buildings and greenery outside the window adds a serene touch. Maintain a confident and relaxed expression for a stylish and casual appearance.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/bc1205f65ff54af9e52bb9f99e98d92e.jpg",
+    "filter": "sitting, stylish, indoor",
+    "description": "This stylish indoor pose is perfect for showcasing a modern look. Sit on a chair in a modern, stylish indoor setting. Wear a white button-down shirt, beige pants, and brown loafers. The background includes a beige sofa, a small table, and a wall with a textured finish. Maintain a confident and relaxed expression for a polished appearance.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/bcd8944ae096949d0b7761f407bab8d1.jpg",
+    "filter": "standing, stylish, beach",
+    "description": "This stylish beach pose is perfect for a sophisticated yet relaxed look. Stand barefoot on the sandy beach, leaning against a large rock with your arms crossed. Wear a dark suit that contrasts with the casual, natural environment. The background of the ocean and rocks adds a unique and striking element to the image. Maintain a confident and contemplative expression.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/bf1292097addd71a12fec605fd9e9b34.jpg",
+    "filter": "standing, sidelook,casual",
+    "description": "This casual pose is perfect for relaxed and informal photoshoots. Keep your hands in your pockets or lean against a wall for a natural look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/c08c269c0a50d42ce4b77f85dbcf89fa.jpg",
+    "filter": "standing, formal, elegant",
+    "description": "This elegant formal pose is perfect for a sophisticated and stylish look. Stand with your back slightly leaning against a wall, hands resting loosely by your sides. Maintain a composed and confident expression to highlight the formal attire.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/c9fae7f02b712f1527e5d32e7db390b1.jpg",
+    "filter": "sitting, stylish, urban, formal",
+    "description": "Sit on a wooden bench with legs crossed at the ankles. The background of tall buildings in an urban setting, possibly a rooftop or high-rise location, adds a modern and sophisticated vibe. Accessorize with a wristwatch and a bracelet. Maintain a confident and relaxed expression to highlight the fashionable look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/c56e7e451423350b57ac1190343d41db.jpg",
+    "filter": "standing, formal, studio",
+    "description": "Stand with both hands in your pockets in a relaxed yet confident manner. Wear a black suit, black dress shirt, black tie, and black dress shoes. The background is a plain, minimal studio setting, allowing the focus to remain on your formal attire. Maintain a neutral and composed expression for a sophisticated look.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/c383c46a4a8feedbc2e9acf5f3d29754.jpg",
+    "filter": "sitting, stylish, sophisticated",
+    "description": "Sit on a wooden chair with a woven seat, dressed in a green blazer, a grey shirt, grey pleated trousers, and brown loafers. The combination of formal and casual elements in the attire creates a fashionable and sophisticated look. The background is minimal, highlighting the stylish outfit. Maintain a relaxed and confident expression.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/c0621eeb909446ce6c16a967f6ca62c0.jpg",
+    "filter": "standing, stylish, casual",
+    "description": "Stand in a relaxed manner in a parking garage, with both hands in the pockets of your jeans. Wear a brown suede jacket, a dark grey t-shirt, dark jeans, and brown leather boots. The lighting creates shadows on the ground, adding depth to the scene. Maintain a natural and confident expression for an effortlessly stylish look.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/c954bff70d24ac91ab2bd1baf32aa0fd.jpg",
+    "filter": "standing, stylish, modern",
+    "description": "Stand confidently in a stylish outfit that combines casual and formal elements. The background consists of light-colored walls and a tiled floor, creating a clean and modern look. Maintain a natural and relaxed expression to highlight the fashionable attire.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/c1669f340422d82cba4a55920728ab31.jpg",
+    "filter": "standing, stylish, formal",
+    "description": "This stylish and formal pose is perfect for a sophisticated look. Stand confidently with both hands in the pockets of your black suit pants. Wear a black dress shirt with a matching black tie, and black dress shoes. The plain, light-colored background keeps the focus on the attire. A wristwatch adds a touch of elegance. Maintain a composed and confident expression for a polished appearance.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/cbc3acfb4f00a8d35402ce723530b798.jpg",
+    "filter": "standing, stylish, urban, formal",
+    "description": "This stylish and professional pose is perfect for an urban setting. Stand confidently with one hand in your pocket and the other adjusting your suit jacket. Wear a well-fitted grey suit with a black turtleneck underneath, black dress shoes, and a watch. The background of tiled pavement and concrete walls adds a modern, urban vibe. Maintain a composed and confident expression to highlight the fashionable outfit.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/cf90b8e9181c7d95c141a611ba5940b8.jpg",
+    "filter": "standing, formal, outdoor",
+    "description": "This stylish and formal pose is perfect for an outdoor setting at night. Stand confidently, looking down while adjusting the cuff of your left sleeve. The background includes a grassy area, some bushes, and a building with lights, adding a sophisticated and elegant touch to the scene. Maintain a composed and confident expression to highlight the fashionable outfit.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/d4e52d07d48c1dbd6c808e4b7f0b07fd.jpg",
+    "filter": "standing, stylish, outdoor",
+    "description": "This stylish and casual pose is perfect for an outdoor setting. Stand near a stone railing with some plants and trees in the background. The view of the ocean adds a serene touch to the scene. Maintain a natural and relaxed expression to highlight the fashionable outfit.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/d11a9d78a716f793698914931d0b4025.jpg",
+    "filter": "standing, stylish, urban",
+    "description": "This stylish and urban pose is perfect for an outdoor setting. Stand in the middle of a cobblestone street, dressed in a light grey suit with a white t-shirt underneath. Pose with one hand in your pocket and the other hand touching your chin for a thoughtful and stylish look. Maintain a composed and confident expression to highlight the fashionable outfit.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/d18c07f0c58e59324f9cf310d8fb25c6.jpg",
+    "filter": "leaning, formal, elegant",
+    "description": "Lean casually against a hallway wall with arched doorways and a tiled floor, dressed in a stylish, dark purple suit with a matching shirt and black shoes. Maintain a composed and confident expression to highlight the fashionable attire.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/d54d9709c36ebd58a0f30d7300af6a71.jpg",
+    "filter": "standing, stylish, casual",
+    "description": "Stand outdoors in front of a modern building with large glass windows. Hold a pair of sunglasses in your right hand. This outfit blends casual and formal elements for an interesting and fashionable look. Maintain a confident and relaxed expression.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/d353f99cb2493f4f016b51ac99caf8be.jpg",
+    "filter": "squatting, urban, casual",
+    "description": "The image shows a person squatting on a paved surface, wearing a beige jacket with a white shearling collar, a grey sweater, dark blue jeans, and white sneakers. The background is slightly blurred, indicating an outdoor urban setting.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/d10054ea8cd3207820f8233efbcae6a3.jpg",
+    "filter": "leaning, stylish, sophisticated, casual",
+    "description": "Lean casually against an architectural wall with arches in the background. The combination of the coordinated, fashionable attire and the aesthetically pleasing architectural setting creates an interesting and stylish image. Maintain a composed and confident expression.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/e89fc2c81825b00be33797b9c7e288af.jpg",
+    "filter": "standing, stylish, sophisticated, casual",
+    "description": "Stand confidently, dressed in a tan shearling jacket over a dark shirt, paired with dark pants that have a chain accessory hanging from the pocket. The fashionable outfit highlights your trendy and stylish look. Maintain a composed and confident expression, looking slightly away from the camera for a candid and cool vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/e650c59eb9201a01ff4c60a67a95277b.jpg",
+    "filter": "standing, stylish, sophisticated, casual",
+    "description": "Stand confidently in an elegant architectural setting with arched doorways and a patterned floor. Pose with one hand in your pocket and the other hand resting on your hip. Maintain a composed and confident expression.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/e12355d283eded952c879215e720b6a6.jpg",
+    "filter": "walking, stylish, sophisticated, casual",
+    "description": "Walk confidently on a sidewalk. Hold a black bag in your left hand as you walk away from a black car parked on the street. Maintain a composed and confident expression, looking slightly away from the camera for a candid and cool vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/eb99b7d6c027f676f931dd65a94f517f.jpg",
+    "filter": "walking, stylish, sophisticated, casual",
+    "description": "Walk confidently on a paved street in an urban setting. Carry a dark coat draped over your left arm. The background of a wooden structure and blurred buildings adds a city vibe to the scene. Maintain a composed and confident expression.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/ee4ffd664964a79793100c77bef85ba5.jpg",
+    "filter": "walking, stylish, urban",
+    "description": "Walk confidently on a sidewalk next to a building with large columns and a decorative door. Look at your watch on your left wrist, adding a sense of purpose and style. The architectural setting with large columns suggests an urban environment, adding a touch of sophistication to the scene. Maintain a composed and confident expression.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/f4af9733d5d642cea042f5fb1a79e023.jpg",
+    "filter": "standing, stylish, casual",
+    "description": "Stand in a casual manner with one leg slightly raised and bent at the knee, with the foot resting on the opposite leg. The urban setting with dark-colored walls and windows adds a contemporary touch to the scene. Maintain a relaxed and confident expression.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/f5eb17d97605b5cc59349c443586d0bd.jpg",
+    "filter": "standing, stylish, sophisticated, casual",
+    "description": "Stand confidently on a paved walkway outdoors. The stylish and well-coordinated outfit showcases your fashion sense. Maintain a composed and confident expression, slightly looking away from the camera for a candid and cool vibe.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/f8708e3f127d3147b296814379f734ec.jpg",
+    "filter": "leaning, stylish, casual",
+    "description": "Lean against a wall with horizontal ridges.Complete the look with a watch on your left wrist. The background includes a metal railing and a textured ground surface. Maintain a composed and relaxed expression to highlight the fashionable outfit.",
+    "category": "casual"
+  },
+  {
+    "image": "images/Formal_pose/f2613307c323b969ddb64da51f92277b.jpg",
+    "filter": "leaning, stylish, sophisticated, formal",
+    "description": "Lean against a wall with your hands in your pockets. Accessorize with a watch on each wrist and a pocket square in the blazer's breast pocket. The minimal and sleek background highlights your fashionable and sophisticated look. Maintain a composed and confident expression.",
+    "category": "formal"
+  },
+  {
+    "image": "images/Formal_pose/fc08a4fafe80274260170ca3ff3ae795.jpg",
+    "filter": "standing, stylish, casual",
+    "description": "Stand in a relaxed pose, wearing a dark long-sleeve shirt, dark grey trousers, and white sneakers. The outfit combines casual and formal elements, creating a simple yet stylish look. Maintain a relaxed and confident expression, looking slightly away from the camera for a candid vibe.",
+    "category": "casual"
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+]
