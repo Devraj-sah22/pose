@@ -14,6 +14,12 @@ body {
   background-color: #c1c5d1;
 }
 
+/* New add */
+body.dark-mode {
+  background-color: #121212;
+  color: #fff;
+}
+
 #search-input {
   width: 80%;
   padding: 10px;
@@ -23,7 +29,6 @@ body {
   border-radius: 5px;
   font-size: 1rem;
 }
-
 
 .container {
   width: 80%;
@@ -37,15 +42,27 @@ header {
   color: #fff;
   padding: 1rem 0;
   text-align: center;
+  position: sticky;
+  top: 0;
+  background-color: black;
+  z-index: 1000;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar Styling */
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 header nav ul {
   list-style: none;
   padding: 0;
+  display: flex;
 }
 
 header nav ul li {
-  display: inline;
   margin: 0 15px;
 }
 
@@ -53,6 +70,68 @@ header nav ul li a {
   text-decoration: none;
   color: #fff;
 }
+
+.search-form {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.search-form input {
+  padding: 5px 10px;
+  margin-right: 5px;
+  border: 1px solid #ccc;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.search-form button {
+  position: absolute;
+  right: 5px;
+  background-color: transparent;
+  border: none;
+  color: #ccc;
+  cursor: pointer;
+}
+
+.search-form button:hover {
+  color: #fff;
+}
+
+.search-form input:focus {
+  border-color: #ff6347;
+  outline: none;
+}
+
+/* New add Theme Toggle Button */
+.theme-toggle {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 5px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+.theme-toggle:hover {
+  background-color: #444;
+  border-color: #ff6347;
+  color: #ff6347;
+}
+
+body.dark-mode .theme-toggle {
+  color: #000;
+  background-color: #ffffff;
+  border-color: #000;
+}
+
+body.dark-mode .theme-toggle:hover {
+  background-color: #ccc;
+  color: #212121;
+}
+
 
 /* Hero Section */
 .hero {
@@ -83,8 +162,9 @@ header nav ul li a {
   border-radius: 5px;
 }
 
-.developer, .credit{
+a, .developer, .credit{
   color: #000;
+  font-weight: 800 !important;
 }
 
 /* Gallery Section */
@@ -108,10 +188,9 @@ header nav ul li a {
   border-radius: 10px;
   padding: 10px;
   cursor: pointer;
-
 }
 
-.pose-item:hover{
+.pose-item:hover {
   background: #ededed;
 }
 
@@ -123,12 +202,10 @@ header nav ul li a {
 }
 
 .pose-item p {
-  /* width: auto; */
   margin-top: 0.5rem;
   font-size: 0.9rem;
   color: #666;
   text-align: center;
-
 }
 
 /* Pose Item Styling */
@@ -137,7 +214,6 @@ header nav ul li a {
   font-size: 1.2rem;
   color: #333;
 }
-
 
 /* Blog Section */
 .blog {
@@ -194,4 +270,41 @@ footer {
   text-align: center;
   padding: 1rem 0;
   margin-top: 2rem;
+}
+
+/* New add Back to Top Button Styles */
+#back-to-top {
+  position: fixed;
+  bottom: 20px; /* Distance from the bottom */
+  right: 20px;  /* Distance from the right */
+  display: none; /* Hidden by default */
+  background-color: #121212; /* Button color */
+  color: #fff; /* Text color */
+  border: none;
+  border-radius: 50%; /* Make it circular */
+  width: 50px;
+  height: 50px;
+  font-size: 18px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: all 0.3s ease; /* Smooth transitions */
+}
+
+#back-to-top:hover {
+  background-color: royalblue; /* Darker shade on hover */
+  transform: scale(1.1); /* Slightly enlarge on hover */
+}
+/*developer photo*/
+.developer-photo-container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  margin: 20px 0;
+}
+
+.developer-photo {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%; /* Makes it a circle */
+  object-fit: cover;  /* Ensures the image fits without distortion */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
